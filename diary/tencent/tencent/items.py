@@ -16,4 +16,4 @@ class TencentItem(scrapy.Item):
     date = scrapy.Field()#抓取时间
     charset = scrapy.Field()#网页编码
     size = scrapy.Field()#网页大小
-    links = scrapy.Field()#
+    domain = scrapy.Field()#域名

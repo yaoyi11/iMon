@@ -68,8 +68,8 @@ ITEM_PIPELINES = {
     'tencent.CustomURLFilter.CustomURLFilter':100,
     'tencent.pipelines.TencentPipeline': 300,
 }
-JOBDIR="crawls/somespider-1"
-LOG_FILE="log.txt"
+#JOBDIR="crawls/somespider-1"
+#LOG_FILE="log.txt"
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See http://doc.scrapy.org/en/latest/topics/autothrottle.html
 #AUTOTHROTTLE_ENABLED = True
