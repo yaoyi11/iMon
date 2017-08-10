@@ -46,7 +46,7 @@
 
   - tencent用于抓取网站信息并存入数据库，需要在wampserver里面建立一个first数据库，建立page和url两个数据表，具体结构如下：
 
-  ![3](C:\Users\yy\Desktop\diary\png\3.PNG)
+  ![image](/diary/png/3.PNG)
 
   ![4](file:///C:/Users/yy/Desktop/diary/png/4.PNG?lastModify=1502254827)
 
