@@ -44,5 +44,5 @@ class qqnews(CrawlSpider):
         except:
             pass
         for site in Selector(response).xpath('//div[@class="bd"]/ul[@bosszone="jhRE"]'):
-            for url in response.selector.xpath("//a/@href").re(r'^http://news.qq.com/*'):
+            for url in response.selector.xpath("//a/@href").re(r'^http:[a-zA-Z0-9\/\?\=].*'):
                 yield scrapy.Request(url, callback=self.parse)

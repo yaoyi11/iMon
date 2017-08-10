@@ -31,9 +31,9 @@ class TencentPipeline(object):
 
         try:
             #单个网页的url，标题，抓取时间，编码，大小插入到数据表pages
-            self.cursor.execute("INSERT INTO pages(url,title,date,charset,size) VALUES (%s,%s,%s,%s,%s)" ,(url,title,date,charset,size))
+            self.cursor.execute("INSERT INTO page(url,title,date,charset,size) VALUES (%s,%s,%s,%s,%s)" ,(url,title,date,charset,size))
             #获取最后插入的id
-            num = self.cursor.execute("select LAST_INSERT_ID() from pages")
+            num = self.cursor.execute("select LAST_INSERT_ID() from page")
             num = int(num)
             for i in domain:
                 #将单个网页里所有的外部域名插入到url表
