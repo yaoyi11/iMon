@@ -48,11 +48,11 @@
 
   ![image](/diary/png/3.PNG)
 
-  ![4](file:///C:/Users/yy/Desktop/diary/png/4.PNG?lastModify=1502254827)
+  ![image](/diary/png/4.PNG)
 
   - datachart用于统计分析数据库里的内容，需要在first里面添加一个exdomains的数据表
 
-  ![5](C:\Users\yy\Desktop\diary\png\5.PNG)
+  ![image](/diary/png/5.PNG)
 
 ### 四、实验结果
 
@@ -109,20 +109,20 @@
 
   - 数据表page
 
-     ![6](C:\Users\yy\Desktop\diary\png\6.PNG)
+     ![image](/diary/png/6.PNG)
 
     ...
 
-    ![7](C:\Users\yy\Desktop\diary\png\7.PNG)
+    ![image](/diary/png/7.PNG)
 
   - 数据表url
 
-     ![8](C:\Users\yy\Desktop\diary\png\8.PNG)
+     ![image](/diary/png/8.PNG)
 
 
 ​		...
 
-​		 ![9](C:\Users\yy\Desktop\diary\png\9.PNG)
+​		 ![image](/diary/png/9.PNG)
 
 
 - datachart
@@ -136,15 +136,15 @@
 
   - 数据表exdomains
 
-     ![10](C:\Users\yy\Desktop\diary\png\10.PNG)
+     ![image](/diary/png/10.PNG)
 
     ...
 
-     ![11](C:\Users\yy\Desktop\diary\png\11.PNG)
+     ![image](/diary/png/11.PNG)
 
   - 柱状图
 
-     ![12](C:\Users\yy\Desktop\diary\png\12.PNG)
+     ![image](/diary/png/12.PNG)
 
 
 
