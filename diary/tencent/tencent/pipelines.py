@@ -28,16 +28,17 @@ class TencentPipeline(object):
         charset = item['charset']
         size = item['size']
         domain = item['domain']
+        filepath = item['filepath']
 
         try:
             #单个网页的url，标题，抓取时间，编码，大小插入到数据表pages
-            self.cursor.execute("INSERT INTO pages(url,title,date,charset,size) VALUES (%s,%s,%s,%s,%s)" ,(url,title,date,charset,size))
+            self.cursor.execute("INSERT INTO page(url,title,date,charset,size,filepath) VALUES (%s,%s,%s,%s,%s,%s)" ,(url,title,date,charset,size,filepath))
             #获取最后插入的id
-            num = self.cursor.execute("select LAST_INSERT_ID() from pages")
+            num = self.cursor.execute("select LAST_INSERT_ID() from page")
             num = int(num)
             for i in domain:
                 #将单个网页里所有的外部域名插入到url表
-                self.cursor.execute("INSERT INTO url(page_id,domains) VALUES (%d,'%s')" % (num,i))
+                self.cursor.execute("INSERT INTO url(page_id,url,domains) VALUES (%d, '%s','%s')" % (num,url,i))
                 self.conn.commit()
             self.conn.commit()
             print('数据成功插入！')

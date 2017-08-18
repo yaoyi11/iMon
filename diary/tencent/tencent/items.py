@@ -17,3 +17,4 @@ class TencentItem(scrapy.Item):
     charset = scrapy.Field()#网页编码
     size = scrapy.Field()#网页大小
     domain = scrapy.Field()#域名
+    filepath = scrapy.Field()#文件存储路径
