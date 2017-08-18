@@ -1,0 +1,916 @@
+1502699291279	geckodriver	INFO	Listening on 127.0.0.1:54979
+1502699293124	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502699298727	Marionette	INFO	Listening on port 54989
+1502699299178	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502699312238	Marionette	INFO	Ceased listening
+1502699379194	geckodriver	INFO	Listening on 127.0.0.1:55245
+1502699381277	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502699386562	Marionette	INFO	Listening on port 55254
+1502699386805	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502699400516	Marionette	INFO	Ceased listening
+1502699461525	geckodriver	INFO	Listening on 127.0.0.1:55512
+1502699463563	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502699468413	Marionette	INFO	Listening on port 55525
+1502699468805	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502699482866	Marionette	INFO	Ceased listening
+1502699807283	geckodriver	INFO	Listening on 127.0.0.1:56459
+1502699809363	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502699886985	geckodriver	INFO	Listening on 127.0.0.1:56646
+1502699889060	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502699893623	Marionette	INFO	Listening on port 56656
+1502699894404	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502699933027	Marionette	INFO	Ceased listening
+1502700121385	geckodriver	INFO	Listening on 127.0.0.1:57363
+1502700123385	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502700128014	Marionette	INFO	Listening on port 57376
+1502700128971	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502700139135	Marionette	INFO	Ceased listening
+1502700614847	geckodriver	INFO	Listening on 127.0.0.1:58344
+1502700616751	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502700628657	Marionette	INFO	Listening on port 58358
+1502700628754	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502700737646	Marionette	INFO	Ceased listening
+1502762099000	geckodriver	INFO	Listening on 127.0.0.1:50755
+1502762100878	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502762106747	Marionette	INFO	Listening on port 50763
+1502762107303	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502762133432	Marionette	INFO	Ceased listening
+1502762405431	geckodriver	INFO	Listening on 127.0.0.1:51061
+1502762407329	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502762413224	Marionette	INFO	Listening on port 51067
+1502762413750	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502762455210	Marionette	INFO	Ceased listening
+1502763132472	geckodriver	INFO	Listening on 127.0.0.1:51604
+1502763134462	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502763150523	Marionette	INFO	Listening on port 51610
+1502763151362	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502763185636	Marionette	INFO	Ceased listening
+1502763365469	geckodriver	INFO	Listening on 127.0.0.1:51884
+1502763367459	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502763373221	Marionette	INFO	Listening on port 51890
+1502763373946	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502763418272	Marionette	INFO	Ceased listening
+1502763426775	geckodriver	INFO	Listening on 127.0.0.1:52013
+1502763428813	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502763433395	Marionette	INFO	Listening on port 52019
+1502763434196	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502763488494	Marionette	INFO	Ceased listening
+1502763561972	geckodriver	INFO	Listening on 127.0.0.1:52150
+1502763563913	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502763569282	Marionette	INFO	Listening on port 52156
+1502763569757	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502763597607	Marionette	INFO	Ceased listening
+1502763600017	geckodriver	INFO	Listening on 127.0.0.1:52270
+1502763602083	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502763606025	Marionette	INFO	Listening on port 52277
+1502763606802	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502763701859	Marionette	INFO	Ceased listening
+1502763772262	geckodriver	INFO	Listening on 127.0.0.1:52511
+1502763774313	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502763779100	Marionette	INFO	Listening on port 52517
+1502763780244	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502763819708	Marionette	INFO	Ceased listening
+1502763822788	geckodriver	INFO	Listening on 127.0.0.1:52714
+1502763824877	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502763829730	Marionette	INFO	Listening on port 52720
+1502763830447	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502764174940	geckodriver	INFO	Listening on 127.0.0.1:64527
+1502764176956	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502764182792	Marionette	INFO	Listening on port 64533
+1502764183399	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502765089724	geckodriver	INFO	Listening on 127.0.0.1:51514
+1502765091693	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502765097757	Marionette	INFO	Listening on port 51520
+1502765098005	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502765691942	Marionette	INFO	Ceased listening
+1502767315498	geckodriver	INFO	Listening on 127.0.0.1:55759
+1502767317495	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502767332465	Marionette	INFO	Listening on port 55768
+1502767332654	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502767422917	Marionette	INFO	Ceased listening
+1502767543669	geckodriver	INFO	Listening on 127.0.0.1:56017
+1502767545696	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502767560796	Marionette	INFO	Listening on port 56023
+1502767561248	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502767652432	Marionette	INFO	Ceased listening
+1502767668666	geckodriver	INFO	Listening on 127.0.0.1:56270
+1502767670675	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502767676256	Marionette	INFO	Listening on port 56277
+1502767676644	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+JavaScript error: http://finance.sina.com.cn/js/data/20140924/util.js line 74 > eval, line 1: ReferenceError: hq_str_sh600059 is not defined
+1502767933670	geckodriver	INFO	Listening on 127.0.0.1:56466
+1502767935685	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502767940243	Marionette	INFO	Listening on port 56473
+1502767940981	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502768088969	geckodriver	INFO	Listening on 127.0.0.1:56673
+1502768090987	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502768096179	Marionette	INFO	Listening on port 56679
+1502768096901	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502768355199	Marionette	INFO	Ceased listening
+0.0.1:56919
+1502768208763	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502768221677	Marionette	INFO	Listening on port 56928
+1502768222413	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502768353624	Marionette	INFO	Ceased listening
+0.0.1:57177
+1502768309015	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502768314958	Marionette	INFO	Listening on port 57183
+1502768315066	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502768356709	Marionette	INFO	Ceased listening
+1502768378201	geckodriver	INFO	Listening on 127.0.0.1:57399
+1502768380240	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502768384620	Marionette	INFO	Listening on port 57406
+1502768385627	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502768424660	Marionette	INFO	Ceased listening
+1502768454601	geckodriver	INFO	Listening on 127.0.0.1:57608
+1502768456601	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502768461480	Marionette	INFO	Listening on port 57614
+1502768462037	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502768502299	Marionette	INFO	Ceased listening
+0.0.1:57729
+1502768503545	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502768508472	Marionette	INFO	Listening on port 57738
+1502768508889	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502768580891	Marionette	INFO	Ceased listening
+1502768584952	geckodriver	INFO	Listening on 127.0.0.1:57962
+1502768586991	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502768591920	Marionette	INFO	Listening on port 57968
+1502768592504	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502768629465	Marionette	INFO	Ceased listening
+1502768874433	geckodriver	INFO	Listening on 127.0.0.1:58207
+1502768876451	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502768881432	Marionette	INFO	Listening on port 58213
+1502768881931	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502768984638	Marionette	INFO	Ceased listening
+1502769183156	geckodriver	INFO	Listening on 127.0.0.1:58478
+1502769185228	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502769189926	Marionette	INFO	Listening on port 58484
+1502769190518	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502769288953	Marionette	INFO	Ceased listening
+0.0.1:58690
+1502769253734	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502769258702	Marionette	INFO	Listening on port 58698
+1502769259175	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502769287387	Marionette	INFO	Ceased listening
+1502769308701	geckodriver	INFO	Listening on 127.0.0.1:58898
+1502769310638	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502769315762	Marionette	INFO	Listening on port 58904
+1502769316837	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502769344457	Marionette	INFO	Ceased listening
+1502769402730	geckodriver	INFO	Listening on 127.0.0.1:59106
+1502769404791	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502769408797	Marionette	INFO	Listening on port 59112
+1502769409246	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1502770273714	Marionette	INFO	Ceased listening
+530
+1502769994874	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502770272236	Marionette	INFO	Ceased listening
+0.0.1:59934
+1502770230093	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502770245512	Marionette	INFO	Listening on port 59941
+1502770245664	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502770277721	Marionette	INFO	Ceased listening
+1502770292088	geckodriver	INFO	Listening on 127.0.0.1:60156
+1502770294172	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502770299398	Marionette	INFO	Listening on port 60163
+1502770299730	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502770392013	Marionette	INFO	Ceased listening
+0.0.1:60375
+1502770365433	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502770370695	Marionette	INFO	Listening on port 60383
+1502770370750	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/jsonview/converter-sniffer.js, line 68: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+1502770398799	geckodriver	INFO	Listening on 127.0.0.1:60421
+1502770400867	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502770404692	Marionette	INFO	Listening on port 60427
+1502770405067	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: this.connection is null
+1502774156039	Marionette	INFO	Ceased listening
+1502774160381	geckodriver	INFO	Listening on 127.0.0.1:61962
+1502774162351	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502774176666	Marionette	INFO	Listening on port 61970
+1502774177352	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502774547739	Marionette	INFO	Ceased listening
+0.0.1:62207
+1502774431585	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502774436713	Marionette	INFO	Listening on port 62214
+1502774437574	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502774548707	Marionette	INFO	Ceased listening
+0.0.1:62414
+1502774492503	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502774497830	Marionette	INFO	Listening on port 62420
+1502774497933	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502774584048	geckodriver	INFO	Listening on 127.0.0.1:62635
+1502774585954	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502774591615	Marionette	INFO	Listening on port 62641
+1502774592147	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502774614041	Marionette	INFO	Ceased listening
+1502774658419	geckodriver	INFO	Listening on 127.0.0.1:62773
+1502774660470	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502774664318	Marionette	INFO	Listening on port 62779
+1502774664920	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502774932575	Marionette	INFO	Ceased listening
+1502775050995	geckodriver	INFO	Listening on 127.0.0.1:63017
+1502775053065	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502775066351	Marionette	INFO	Listening on port 63025
+1502775066630	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502775343435	Marionette	INFO	Ceased listening
+0.0.1:63236
+1502775171693	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502775176240	Marionette	INFO	Listening on port 63242
+1502775177119	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502775344063	Marionette	INFO	Ceased listening
+1502775385064	geckodriver	INFO	Listening on 127.0.0.1:63713
+1502775387011	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502775391903	Marionette	INFO	Listening on port 63719
+1502775392496	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502775486184	Marionette	INFO	Ceased listening
+1502775495550	geckodriver	INFO	Listening on 127.0.0.1:64092
+1502775497609	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502775502773	Marionette	INFO	Listening on port 64099
+1502775503067	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502775905515	Marionette	INFO	Ceased listening
+1502777593544	geckodriver	INFO	Listening on 127.0.0.1:65415
+1502777595279	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502777622919	Marionette	INFO	Listening on port 65421
+1502777623574	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502777960877	Marionette	INFO	Ceased listening
+1502777963974	geckodriver	INFO	Listening on 127.0.0.1:49401
+1502777965846	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502777972769	Marionette	INFO	Listening on port 49408
+1502777973915	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502778101237	Marionette	INFO	Ceased listening
+1502778105851	geckodriver	INFO	Listening on 127.0.0.1:49649
+1502778107944	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502778112966	Marionette	INFO	Listening on port 49655
+1502778113559	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502778248482	Marionette	INFO	Ceased listening
+1502778258982	geckodriver	INFO	Listening on 127.0.0.1:49913
+1502778261005	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502778269050	geckodriver	INFO	Listening on 127.0.0.1:49933
+1502778271077	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502778274914	Marionette	INFO	Listening on port 49939
+1502778275979	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502778474191	Marionette	INFO	Ceased listening
+0.0.1:50163
+1502778369722	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502778374553	Marionette	INFO	Listening on port 50171
+1502778375168	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502778470268	Marionette	INFO	Ceased listening
+1502778559227	geckodriver	INFO	Listening on 127.0.0.1:50411
+1502778561147	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502778567677	Marionette	INFO	Listening on port 50418
+1502778568309	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502778812485	Marionette	INFO	Ceased listening
+0.0.1:50706
+1502778811494	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502778816714	Marionette	INFO	Listening on port 50714
+1502778817138	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502779139401	Marionette	INFO	Ceased listening
+1502779143782	geckodriver	INFO	Listening on 127.0.0.1:51091
+1502779145826	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502779150512	Marionette	INFO	Listening on port 51097
+1502779151179	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502779207801	Marionette	INFO	Ceased listening
+1502779211230	geckodriver	INFO	Listening on 127.0.0.1:51329
+1502779213292	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502779218314	Marionette	INFO	Listening on port 51336
+1502779218923	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502779583734	Marionette	INFO	Ceased listening
+0.0.1:51728
+1502779390780	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502779396937	Marionette	INFO	Listening on port 51735
+1502779397305	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502779585378	Marionette	INFO	Ceased listening
+1502779676104	geckodriver	INFO	Listening on 127.0.0.1:52125
+1502779678009	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502779683500	Marionette	INFO	Listening on port 52132
+1502779684153	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502779728253	Marionette	INFO	Ceased listening
+1502779941387	geckodriver	INFO	Listening on 127.0.0.1:52459
+1502779943407	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502779948840	Marionette	INFO	Listening on port 52469
+1502779949257	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502780045891	Marionette	INFO	Ceased listening
+0.0.1:52691
+1502780004315	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502780019057	Marionette	INFO	Listening on port 52698
+1502780019428	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502780160289	Marionette	INFO	Ceased listening
+1502780164212	geckodriver	INFO	Listening on 127.0.0.1:53017
+1502780166160	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502780171017	Marionette	INFO	Listening on port 53023
+1502780171590	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502780215738	Marionette	INFO	Ceased listening
+1502780450417	geckodriver	INFO	Listening on 127.0.0.1:53412
+1502780452496	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502780456969	Marionette	INFO	Listening on port 53418
+1502780457983	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502780663654	Marionette	INFO	Ceased listening
+1502780732288	geckodriver	INFO	Listening on 127.0.0.1:53728
+1502780734322	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502780739163	Marionette	INFO	Listening on port 53735
+1502780739606	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502781212603	Marionette	INFO	Ceased listening
+1502782870968	geckodriver	INFO	Listening on 127.0.0.1:55162
+1502782872914	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502782885516	Marionette	INFO	Listening on port 55172
+1502782886592	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502783452434	Marionette	INFO	Ceased listening
+0.0.1:55653
+1502783119244	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502783125523	Marionette	INFO	Listening on port 55659
+1502783125675	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502783453600	Marionette	INFO	Ceased listening
+1502783459272	geckodriver	INFO	Listening on 127.0.0.1:56144
+1502783461162	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502783467259	Marionette	INFO	Listening on port 56150
+1502783467798	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502783602411	Marionette	INFO	Ceased listening
+0.0.1:56355
+1502783517632	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502783521881	Marionette	INFO	Listening on port 56362
+1502783522956	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502783572495	Marionette	INFO	Ceased listening
+1502783647330	geckodriver	INFO	Listening on 127.0.0.1:56601
+1502783649238	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502783654338	Marionette	INFO	Listening on port 56608
+1502783654870	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502783870226	Marionette	INFO	Ceased listening
+1502785715218	geckodriver	INFO	Listening on 127.0.0.1:57624
+1502785717216	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502785728606	Marionette	INFO	Listening on port 57632
+1502785728778	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502785810604	Marionette	INFO	Ceased listening
+1502785814616	geckodriver	INFO	Listening on 127.0.0.1:57836
+1502785816657	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502785821515	Marionette	INFO	Listening on port 57842
+1502785822036	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502785839425	Marionette	INFO	Ceased listening
+1502785872185	geckodriver	INFO	Listening on 127.0.0.1:58035
+1502785874133	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502785879367	Marionette	INFO	Listening on port 58041
+1502785879934	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502785922288	Marionette	INFO	Ceased listening
+1502785935743	geckodriver	INFO	Listening on 127.0.0.1:58234
+1502785937807	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502785943012	Marionette	INFO	Listening on port 58240
+1502785943179	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502785989311	Marionette	INFO	Ceased listening
+1502786517534	geckodriver	INFO	Listening on 127.0.0.1:58825
+1502786519554	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502786525033	Marionette	INFO	Listening on port 58832
+1502786525481	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502786634361	Marionette	INFO	Ceased listening
+0.0.1:59035
+1502786596330	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502786601216	Marionette	INFO	Listening on port 59042
+1502786602366	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502786635370	Marionette	INFO	Ceased listening
+1502786657364	geckodriver	INFO	Listening on 127.0.0.1:59244
+1502786659237	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502786664760	Marionette	INFO	Listening on port 59250
+1502786665364	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502786758843	geckodriver	INFO	Listening on 127.0.0.1:59450
+1502786760916	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502786773743	Marionette	INFO	Listening on port 59456
+1502786774455	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502789078988	geckodriver	INFO	Listening on 127.0.0.1:62060
+1502789080989	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502789091333	Marionette	INFO	Listening on port 62070
+1502789091733	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502789223267	geckodriver	INFO	Listening on 127.0.0.1:62485
+1502789225222	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502789231078	Marionette	INFO	Listening on port 62496
+1502789231531	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+JavaScript error: http://finance.sina.com.cn/js/data/20140924/util.js line 74 > eval, line 1: ReferenceError: hq_str_sh600104 is not defined
+1502789374693	geckodriver	INFO	Listening on 127.0.0.1:62943
+1502789376712	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502789381643	Marionette	INFO	Listening on port 62953
+1502789382037	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502789418452	Marionette	INFO	Ceased listening
+1502789482939	geckodriver	INFO	Listening on 127.0.0.1:63165
+1502789484956	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502789491681	Marionette	INFO	Listening on port 63175
+1502789492577	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502789648663	Marionette	INFO	Ceased listening
+0.0.1:63561
+1502789593712	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502789599776	Marionette	INFO	Listening on port 63571
+1502789600868	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502789647372	Marionette	INFO	Ceased listening
+1502789739285	geckodriver	INFO	Listening on 127.0.0.1:64041
+1502789741169	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502789746456	Marionette	INFO	Listening on port 64055
+1502789747310	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502789822891	Marionette	INFO	Ceased listening
+1502847643875	geckodriver	INFO	Listening on 127.0.0.1:49567
+1502847645872	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502847657470	Marionette	INFO	Listening on port 49575
+1502847658055	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502848177847	Marionette	INFO	Ceased listening
+1502848182271	geckodriver	INFO	Listening on 127.0.0.1:50184
+1502848184279	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502848193054	Marionette	INFO	Listening on port 50194
+1502848193876	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+JavaScript error: http://finance.sina.com.cn/js/data/20140924/util.js line 74 > eval, line 1: ReferenceError: hq_str_sh600104 is not defined
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1502849006257	Marionette	INFO	Ceased listening
+0.0.1:50742
+1502849007021	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502849013157	Marionette	INFO	Listening on port 50748
+1502849013497	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502849377150	Marionette	INFO	Ceased listening
+1502849384218	geckodriver	INFO	Listening on 127.0.0.1:51213
+1502849386170	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502849391449	Marionette	INFO	Listening on port 51219
+1502849392111	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1502850067968	Marionette	INFO	Ceased listening
+1502850203940	geckodriver	INFO	Listening on 127.0.0.1:51759
+1502850205918	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502850216379	Marionette	INFO	Listening on port 51765
+1502850216493	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502850369492	geckodriver	INFO	Listening on 127.0.0.1:51882
+1502850371526	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502850385768	geckodriver	INFO	Listening on 127.0.0.1:51899
+1502850389578	geckodriver	INFO	Listening on 127.0.0.1:51907
+1502850391682	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502850396378	Marionette	INFO	Listening on port 51913
+1502850396990	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502850924885	geckodriver	INFO	Listening on 127.0.0.1:52133
+1502850926911	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502850931873	Marionette	INFO	Listening on port 52139
+1502850932757	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502851291089	geckodriver	INFO	Listening on 127.0.0.1:52466
+1502851293194	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502851297634	Marionette	INFO	Listening on port 52472
+1502851298746	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502851363539	geckodriver	INFO	Listening on 127.0.0.1:52590
+1502851365613	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502851369565	Marionette	INFO	Listening on port 52596
+1502851370020	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502851573397	geckodriver	INFO	Listening on 127.0.0.1:52898
+1502851575421	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502851579960	Marionette	INFO	Listening on port 52904
+1502851580782	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1502856451919	Marionette	INFO	Ceased listening
+1502857169716	geckodriver	INFO	Listening on 127.0.0.1:63826
+1502857171508	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502857177488	Marionette	INFO	Listening on port 63837
+1502857177769	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502857247961	Marionette	INFO	Ceased listening
+1502862459039	geckodriver	INFO	Listening on 127.0.0.1:57923
+1502862460785	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502862477657	Marionette	INFO	Listening on port 57936
+1502862478209	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 306: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIInterfaceRequestor.getInterface]
+1502868901483	Marionette	INFO	Ceased listening
+1502868915972	geckodriver	INFO	Listening on 127.0.0.1:52425
+1502868917662	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502868930285	Marionette	INFO	Listening on port 52436
+1502868931697	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502869383873	Marionette	INFO	Ceased listening
+1502871117086	geckodriver	INFO	Listening on 127.0.0.1:57065
+1502871118717	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502871142776	Marionette	INFO	Listening on port 57078
+1502871143181	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502871297026	Marionette	INFO	Ceased listening
+1502871299933	geckodriver	INFO	Listening on 127.0.0.1:57607
+1502871301846	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502871307373	Marionette	INFO	Listening on port 57616
+1502871307733	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502871685961	Marionette	INFO	Ceased listening
+0.0.1:58105
+1502871600032	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502871605882	Marionette	INFO	Listening on port 58112
+1502871606072	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502871684397	Marionette	INFO	Ceased listening
+1502871696308	geckodriver	INFO	Listening on 127.0.0.1:58412
+1502871698381	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502871702509	Marionette	INFO	Listening on port 58418
+1502871703172	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502872080447	Marionette	INFO	Ceased listening
+0.0.1:58617
+1502871880072	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502871884582	Marionette	INFO	Listening on port 58623
+1502871885500	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502872080400	Marionette	INFO	Ceased listening
+0.0.1:58825
+1502871968627	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502871973041	Marionette	INFO	Listening on port 58831
+1502871974057	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502872080559	Marionette	INFO	Ceased listening
+1502873597280	geckodriver	INFO	Listening on 127.0.0.1:59513
+1502873599284	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502873608566	Marionette	INFO	Listening on port 59520
+1502873608821	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502873741451	geckodriver	INFO	Listening on 127.0.0.1:59812
+1502873743229	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502873748509	Marionette	INFO	Listening on port 59820
+1502873748877	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502874071406	Marionette	INFO	Ceased listening
+0.0.1:60125
+1502874028100	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502874033732	Marionette	INFO	Listening on port 60131
+1502874034411	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502874108324	Marionette	INFO	Ceased listening
+1502874261040	geckodriver	INFO	Listening on 127.0.0.1:60344
+1502874262933	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502874269586	Marionette	INFO	Listening on port 60350
+1502874269878	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502874521404	Marionette	INFO	Ceased listening
+0.0.1:60566
+1502874493166	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502874498298	Marionette	INFO	Listening on port 60572
+1502874498797	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502874554181	Marionette	INFO	Ceased listening
+1502874557637	geckodriver	INFO	Listening on 127.0.0.1:60675
+1502874559672	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502874563788	Marionette	INFO	Listening on port 60681
+1502874564336	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502875368505	geckodriver	INFO	Listening on 127.0.0.1:62063
+1502875370379	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502875382522	Marionette	INFO	Listening on port 62069
+1502875382715	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+JavaScript error: http://finance.sina.com.cn/js/data/20140924/util.js line 74 > eval, line 1: ReferenceError: hq_str_sh600624 is not defined
+JavaScript error: http://finance.sina.com.cn/js/data/20140924/util.js line 74 > eval, line 1: ReferenceError: hq_str_sh600724 is not defined
+JavaScript error: http://finance.sina.com.cn/js/data/20140924/util.js line 74 > eval, line 1: ReferenceError: hq_str_sh600821 is not defined
+JavaScript error: http://finance.sina.com.cn/js/data/20140924/util.js line 74 > eval, line 1: ReferenceError: hq_str_sh600963 is not defined
+JavaScript error: http://finance.sina.com.cn/js/data/20140924/util.js line 74 > eval, line 1: ReferenceError: hq_str_sh601211 is not defined
+JavaScript error: http://finance.sina.com.cn/js/data/20140924/util.js line 74 > eval, line 1: ReferenceError: hq_str_sh601211 is not defined
+JavaScript error: http://finance.sina.com.cn/js/data/20140924/util.js line 74 > eval, line 1: ReferenceError: hq_str_sh603085 is not defined
+JavaScript error: http://finance.sina.com.cn/js/data/20140924/util.js line 74 > eval, line 1: ReferenceError: hq_str_sh603085 is not defined
+JavaScript error: http://finance.sina.com.cn/js/data/20140924/util.js line 74 > eval, line 1: ReferenceError: hq_str_sh603626 is not defined
+JavaScript error: http://finance.sina.com.cn/js/data/20140924/util.js line 74 > eval, line 1: ReferenceError: hq_str_sh603866 is not defined
+JavaScript error: http://finance.sina.com.cn/js/data/20140924/util.js line 74 > eval, line 1: ReferenceError: hq_str_sz000029 is not defined
+JavaScript error: http://finance.sina.com.cn/js/data/20140924/util.js line 74 > eval, line 1: ReferenceError: hq_str_sz000504 is not defined
+JavaScript error: http://finance.sina.com.cn/js/data/20140924/util.js line 74 > eval, line 1: ReferenceError: hq_str_sz000831 is not defined
+JavaScript error: http://finance.sina.com.cn/js/data/20140924/util.js line 74 > eval, line 1: ReferenceError: hq_str_sz000953 is not defined
+JavaScript error: http://finance.sina.com.cn/js/data/20140924/util.js line 74 > eval, line 1: ReferenceError: hq_str_sz002040 is not defined
+JavaScript error: http://finance.sina.com.cn/js/data/20140924/util.js line 74 > eval, line 1: ReferenceError: hq_str_sz002120 is not defined
+JavaScript error: http://finance.sina.com.cn/js/data/20140924/util.js line 74 > eval, line 1: ReferenceError: hq_str_sz002281 is not defined
+JavaScript error: http://finance.sina.com.cn/js/data/20140924/util.js line 74 > eval, line 1: ReferenceError: hq_str_sz002281 is not defined
+1502876228074	geckodriver	INFO	Listening on 127.0.0.1:64775
+1502876229946	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502876236977	Marionette	INFO	Listening on port 64781
+1502876237295	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502934276753	geckodriver	INFO	Listening on 127.0.0.1:49661
+1502934278372	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502934286468	Marionette	INFO	Listening on port 49674
+1502934286739	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1502935141958	Marionette	INFO	Ceased listening
+0.0.1:50012
+1502935095641	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502935101415	Marionette	INFO	Listening on port 50018
+1502935102238	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+JavaScript error: http://finance.sina.com.cn/js/data/20140924/util.js line 74 > eval, line 1: ReferenceError: hq_str_sh600104 is not defined
+1502935344577	geckodriver	INFO	Listening on 127.0.0.1:50198
+1502935346614	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502935351512	Marionette	INFO	Listening on port 50204
+1502935352087	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502937000806	geckodriver	INFO	Listening on 127.0.0.1:50909
+1502937002723	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502937013219	Marionette	INFO	Listening on port 50915
+1502937013997	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+JavaScript error: http://finance.sina.com.cn/js/data/20140924/util.js line 74 > eval, line 1: ReferenceError: hq_str_sh600104 is not defined
+JavaScript error: http://finance.sina.com.cn/js/data/20140924/util.js line 74 > eval, line 1: ReferenceError: hq_str_sh600104 is not defined
+JavaScript error: http://finance.sina.com.cn/js/data/20140924/util.js line 74 > eval, line 1: ReferenceError: hq_str_sh600409 is not defined
+1502937117121	geckodriver	INFO	Listening on 127.0.0.1:51042
+1502937119172	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502937123734	Marionette	INFO	Listening on port 51048
+1502937124646	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502937169111	geckodriver	INFO	Listening on 127.0.0.1:51160
+1502937171119	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502937176389	Marionette	INFO	Listening on port 51166
+1502937176951	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502937250149	geckodriver	INFO	Listening on 127.0.0.1:51491
+1502937252193	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502937256985	Marionette	INFO	Listening on port 51497
+1502937257491	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502937633688	geckodriver	INFO	Listening on 127.0.0.1:51988
+1502937635676	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502937643043	Marionette	INFO	Listening on port 51994
+1502937643195	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502937701055	geckodriver	INFO	Listening on 127.0.0.1:52211
+1502937703111	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502937802998	geckodriver	INFO	Listening on 127.0.0.1:52475
+1502937804969	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502937807165	Marionette	INFO	Enabled via --marionette
+1502937814448	Marionette	INFO	Listening on port 52481
+[Child 8708] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8708] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1502937814483	Marionette	INFO	Listening on port 52481
+1502937814524	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502937814555	Marionette	DEBUG	loaded listener.js
+1502937820878	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1502937821881	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502937821881	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+[GPU 8664] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 8664] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6552] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6552] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1502937872801	geckodriver	INFO	Listening on 127.0.0.1:52572
+1502937874876	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502937877102	Marionette	INFO	Enabled via --marionette
+[GPU 8196] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1502937880801	Marionette	INFO	Listening on port 52578
+1502937880808	Marionette	INFO	Listening on port 52578
+1502937881201	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502937881238	Marionette	DEBUG	loaded listener.js
+1502937885742	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1502937885800	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502937885800	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502937887546	Marionette	DEBUG	Received DOM event "pageshow" for "http://finance.sina.com.cn/data/#stock?qq-pf-to=pcqq.group"
+1502937887969	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://finance.sina.com.cn/data/#stock?qq-pf-to=pcqq.group"
+1502937887996	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://beacon.sina.com.cn/ckctl.html"
+1502937888000	Marionette	DEBUG	Received DOM event "pageshow" for "http://beacon.sina.com.cn/ckctl.html"
+1502937888047	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://d8.sina.com.cn/litong/zhitou/sinaads/src/spec/sinaads_ck.html"
+1502937888171	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://finance.sina.com.cn/data/analysis.html?page=stock,schq,hsgs,qbag&refer=&r=0.6481528492875178"
+1502937888184	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://beacon.sina.com.cn/ckctl.html"
+1502937888187	Marionette	DEBUG	Received DOM event "pageshow" for "http://beacon.sina.com.cn/ckctl.html"
+1502937888222	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://d8.sina.com.cn/litong/zhitou/sinaads/src/spec/sinaads_ck.html"
+1502937888349	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://news.sina.com.cn/iframe/87/store.html?handle=___SinaadsCrossDomainStorage___.onReady&domain=sina.com.cn"
+1502937888352	Marionette	DEBUG	Received DOM event "pageshow" for "http://news.sina.com.cn/iframe/87/store.html?handle=___SinaadsCrossDomainStorage___.onReady&domain=sina.com.cn"
+1502937888353	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://news.sina.com.cn/iframe/87/store.html?handle=___SinaadsCrossDomainStorage___.onReady&domain=sina.com.cn"
+1502937888354	Marionette	DEBUG	Received DOM event "pageshow" for "http://news.sina.com.cn/iframe/87/store.html?handle=___SinaadsCrossDomainStorage___.onReady&domain=sina.com.cn"
+1502937888765	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://current.sina.com.cn/theone/IO.WebPush4.localConn.html"
+1502937888766	Marionette	DEBUG	Received DOM event "pageshow" for "https://current.sina.com.cn/theone/IO.WebPush4.localConn.html"
+1502937889693	Marionette	DEBUG	Received DOM event "pageshow" for "http://d8.sina.com.cn/litong/zhitou/sinaads/src/spec/sinaads_ck.html"
+1502937889695	Marionette	DEBUG	Received DOM event "pageshow" for "http://finance.sina.com.cn/data/analysis.html?page=stock,schq,hsgs,qbag&refer=&r=0.6481528492875178"
+1502937889774	Marionette	DEBUG	Received DOM event "pageshow" for "http://d8.sina.com.cn/litong/zhitou/sinaads/src/spec/sinaads_ck.html"
+1502937893176	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://passport.weibo.com/visitor/visitor?from=iframe"
+1502937893184	Marionette	DEBUG	Received DOM event "pageshow" for "https://passport.weibo.com/visitor/visitor?from=iframe"
+1502937906490	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502937922931	Marionette	DEBUG	Received DOM event "pagehide" for "https://passport.weibo.com/visitor/visitor?from=iframe"
+1502937922931	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483676"
+1502937923135	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502937940307	geckodriver	INFO	Listening on 127.0.0.1:52757
+1502937942209	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502937943910	Marionette	INFO	Enabled via --marionette
+[GPU 9704] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9064] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9064] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1502937947537	Marionette	INFO	Listening on port 52764
+1502937947545	Marionette	INFO	Listening on port 52764
+1502937947622	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502937947671	Marionette	DEBUG	loaded listener.js
+1502937952080	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1502937952147	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502937952148	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502937952640	Marionette	DEBUG	Received DOM event "pageshow" for "http://finance.sina.com.cn/data/#stock?qq-pf-to=pcqq.group"
+1502937952818	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://finance.sina.com.cn/data/#stock?qq-pf-to=pcqq.group"
+1502937952927	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://beacon.sina.com.cn/ckctl.html"
+1502937952930	Marionette	DEBUG	Received DOM event "pageshow" for "http://beacon.sina.com.cn/ckctl.html"
+1502937952930	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://finance.sina.com.cn/data/analysis.html?page=stock,schq,hsgs,qbag&refer=&r=0.4974177191760891"
+1502937952931	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://beacon.sina.com.cn/ckctl.html"
+1502937952932	Marionette	DEBUG	Received DOM event "pageshow" for "http://beacon.sina.com.cn/ckctl.html"
+1502937952980	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://d0.sina.com.cn/litong/zhitou/sinaads/src/spec/sinaads_ck.html"
+1502937953068	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://d1.sina.com.cn/litong/zhitou/sinaads/src/spec/sinaads_ck.html"
+1502937953068	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://news.sina.com.cn/iframe/87/store.html?handle=___SinaadsCrossDomainStorage___.onReady&domain=sina.com.cn"
+1502937953070	Marionette	DEBUG	Received DOM event "pageshow" for "http://news.sina.com.cn/iframe/87/store.html?handle=___SinaadsCrossDomainStorage___.onReady&domain=sina.com.cn"
+1502937953111	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://news.sina.com.cn/iframe/87/store.html?handle=___SinaadsCrossDomainStorage___.onReady&domain=sina.com.cn"
+1502937953111	Marionette	DEBUG	Received DOM event "pageshow" for "http://news.sina.com.cn/iframe/87/store.html?handle=___SinaadsCrossDomainStorage___.onReady&domain=sina.com.cn"
+1502937953112	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://current.sina.com.cn/theone/IO.WebPush4.localConn.html"
+1502937953121	Marionette	DEBUG	Received DOM event "pageshow" for "https://current.sina.com.cn/theone/IO.WebPush4.localConn.html"
+1502937953299	Marionette	DEBUG	Received DOM event "pageshow" for "http://d0.sina.com.cn/litong/zhitou/sinaads/src/spec/sinaads_ck.html"
+1502937953360	Marionette	DEBUG	Received DOM event "pageshow" for "http://d1.sina.com.cn/litong/zhitou/sinaads/src/spec/sinaads_ck.html"
+1502937953361	Marionette	DEBUG	Received DOM event "pageshow" for "http://finance.sina.com.cn/data/analysis.html?page=stock,schq,hsgs,qbag&refer=&r=0.4974177191760891"
+1502937954037	Marionette	DEBUG	Received DOM event "pageshow" for "http://finance.sina.com.cn/data/#stock?qq-pf-to=pcqq.group"
+1502937958340	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: http://finance.sina.com.cn/js/data/20140924/util.js line 74 > eval, line 1: ReferenceError: hq_str_sh600059 is not defined
+1502937967616	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502937993762	geckodriver	INFO	Listening on 127.0.0.1:52978
+1502937995798	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502937997747	Marionette	INFO	Enabled via --marionette
+1502938001256	Marionette	INFO	Listening on port 52985
+1502938001276	Marionette	INFO	Listening on port 52985
+1502938001722	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502938001759	Marionette	DEBUG	loaded listener.js
+1502938005240	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1502938005488	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502938005488	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502938006259	Marionette	DEBUG	Received DOM event "pageshow" for "http://finance.sina.com.cn/data/#stock?qq-pf-to=pcqq.group"
+1502938006499	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://finance.sina.com.cn/data/#stock?qq-pf-to=pcqq.group"
+1502938006693	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://beacon.sina.com.cn/ckctl.html"
+1502938006696	Marionette	DEBUG	Received DOM event "pageshow" for "http://beacon.sina.com.cn/ckctl.html"
+1502938007006	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://finance.sina.com.cn/data/analysis.html?page=stock,schq,hsgs,qbag&refer=&r=0.893357731691651"
+1502938007210	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://d2.sina.com.cn/litong/zhitou/sinaads/src/spec/sinaads_ck.html"
+1502938007211	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://beacon.sina.com.cn/ckctl.html"
+1502938007215	Marionette	DEBUG	Received DOM event "pageshow" for "http://beacon.sina.com.cn/ckctl.html"
+1502938007251	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://news.sina.com.cn/iframe/87/store.html?handle=___SinaadsCrossDomainStorage___.onReady&domain=sina.com.cn"
+1502938007253	Marionette	DEBUG	Received DOM event "pageshow" for "http://news.sina.com.cn/iframe/87/store.html?handle=___SinaadsCrossDomainStorage___.onReady&domain=sina.com.cn"
+1502938007255	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://d5.sina.com.cn/litong/zhitou/sinaads/src/spec/sinaads_ck.html"
+1502938007266	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://news.sina.com.cn/iframe/87/store.html?handle=___SinaadsCrossDomainStorage___.onReady&domain=sina.com.cn"
+1502938007267	Marionette	DEBUG	Received DOM event "pageshow" for "http://news.sina.com.cn/iframe/87/store.html?handle=___SinaadsCrossDomainStorage___.onReady&domain=sina.com.cn"
+1502938007334	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://current.sina.com.cn/theone/IO.WebPush4.localConn.html"
+1502938007335	Marionette	DEBUG	Received DOM event "pageshow" for "https://current.sina.com.cn/theone/IO.WebPush4.localConn.html"
+1502938007727	Marionette	DEBUG	Received DOM event "pageshow" for "http://d2.sina.com.cn/litong/zhitou/sinaads/src/spec/sinaads_ck.html"
+1502938007777	Marionette	DEBUG	Received DOM event "pageshow" for "http://d5.sina.com.cn/litong/zhitou/sinaads/src/spec/sinaads_ck.html"
+1502938007778	Marionette	DEBUG	Received DOM event "pageshow" for "http://finance.sina.com.cn/data/analysis.html?page=stock,schq,hsgs,qbag&refer=&r=0.893357731691651"
+1502938012842	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://passport.weibo.com/visitor/visitor?from=iframe"
+1502938012855	Marionette	DEBUG	Received DOM event "pageshow" for "https://passport.weibo.com/visitor/visitor?from=iframe"
+1502938013103	Marionette	DEBUG	Received DOM event "pageshow" for "http://finance.sina.com.cn/data/#stock?qq-pf-to=pcqq.group"
+1502938017415	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502938074273	geckodriver	INFO	Listening on 127.0.0.1:53193
+1502938076222	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502938078753	Marionette	INFO	Enabled via --marionette
+[GPU 9580] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1502938082488	Marionette	INFO	Listening on port 53200
+1502938082534	Marionette	INFO	Listening on port 53200
+1502938082629	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502938082662	Marionette	DEBUG	loaded listener.js
+1502938086057	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1502938086110	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502938086110	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1502938086933	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://beacon.sina.com.cn/ckctl.html"
+1502938086936	Marionette	DEBUG	Received DOM event "pageshow" for "http://beacon.sina.com.cn/ckctl.html"
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1502938087243	Marionette	DEBUG	Received DOM event "pageshow" for "http://finance.sina.com.cn/data/analysis.html"
+1502938087313	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://finance.sina.com.cn/data/analysis.html"
+1502938087373	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://finance.sina.com.cn/data/#stock?qq-pf-to=pcqq.group"
+1502938089597	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://finance.sina.com.cn/data/analysis.html?page=stock,schq,hsgs,qbag&refer=&r=0.6229955353386605"
+1502938089598	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://d5.sina.com.cn/litong/zhitou/sinaads/src/spec/sinaads_ck.html"
+1502938089615	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://beacon.sina.com.cn/ckctl.html"
+1502938089618	Marionette	DEBUG	Received DOM event "pageshow" for "http://beacon.sina.com.cn/ckctl.html"
+1502938089673	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://news.sina.com.cn/iframe/87/store.html?handle=___SinaadsCrossDomainStorage___.onReady&domain=sina.com.cn"
+1502938089677	Marionette	DEBUG	Received DOM event "pageshow" for "http://news.sina.com.cn/iframe/87/store.html?handle=___SinaadsCrossDomainStorage___.onReady&domain=sina.com.cn"
+1502938089697	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://d0.sina.com.cn/litong/zhitou/sinaads/src/spec/sinaads_ck.html"
+1502938089707	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://news.sina.com.cn/iframe/87/store.html?handle=___SinaadsCrossDomainStorage___.onReady&domain=sina.com.cn"
+1502938089709	Marionette	DEBUG	Received DOM event "pageshow" for "http://news.sina.com.cn/iframe/87/store.html?handle=___SinaadsCrossDomainStorage___.onReady&domain=sina.com.cn"
+1502938089816	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://current.sina.com.cn/theone/IO.WebPush4.localConn.html"
+1502938089817	Marionette	DEBUG	Received DOM event "pageshow" for "https://current.sina.com.cn/theone/IO.WebPush4.localConn.html"
+1502938090316	Marionette	DEBUG	Received DOM event "pageshow" for "http://d5.sina.com.cn/litong/zhitou/sinaads/src/spec/sinaads_ck.html"
+1502938090692	Marionette	DEBUG	Received DOM event "pageshow" for "http://d0.sina.com.cn/litong/zhitou/sinaads/src/spec/sinaads_ck.html"
+1502938090694	Marionette	DEBUG	Received DOM event "pageshow" for "http://finance.sina.com.cn/data/analysis.html?page=stock,schq,hsgs,qbag&refer=&r=0.6229955353386605"
+1502938093153	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://passport.weibo.com/visitor/visitor?from=iframe"
+1502938093163	Marionette	DEBUG	Received DOM event "pageshow" for "https://passport.weibo.com/visitor/visitor?from=iframe"
+1502938094267	Marionette	DEBUG	Received DOM event "pageshow" for "http://finance.sina.com.cn/data/#stock?qq-pf-to=pcqq.group"
+1502938098623	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502938107582	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502938118658	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: http://finance.sina.com.cn/js/data/20140924/util.js line 74 > eval, line 1: ReferenceError: hq_str_sh600200 is not defined
+1502938129453	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502938141101	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502938153088	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
