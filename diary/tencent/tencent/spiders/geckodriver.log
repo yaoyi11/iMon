@@ -1,12 +1,607 @@
-1502430872051	geckodriver	INFO	Listening on 127.0.0.1:55108
-1502430874054	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
-1502430879430	Marionette	INFO	Listening on port 55114
-1502430880077	Marionette	WARN	TLS certificate errors will be ignored for this session
-JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=se&json=1&p=3&sid=1458_13548_21079_20718&req=2&csor=2&pwd=s&cb=jQuery1102021118769709343255_1502430880787&_=1502430880790, line 1: TypeError: jQuery1102021118769709343255_1502430880787 is not a function
-JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=s&json=1&p=3&sid=1458_13548_21079_20718&req=2&csor=1&cb=jQuery1102021118769709343255_1502430880787&_=1502430880789, line 1: TypeError: jQuery1102021118769709343255_1502430880787 is not a function
-JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selen&json=1&p=3&sid=1458_13548_21079_20718&req=2&csor=5&pwd=sele&cb=jQuery1102021118769709343255_1502430880787&_=1502430880793, line 1: TypeError: jQuery1102021118769709343255_1502430880787 is not a function
-JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=sele&json=1&p=3&sid=1458_13548_21079_20718&req=2&csor=4&pwd=sel&cb=jQuery1102021118769709343255_1502430880787&_=1502430880792, line 1: TypeError: jQuery1102021118769709343255_1502430880787 is not a function
-JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=sel&json=1&p=3&sid=1458_13548_21079_20718&req=2&csor=3&pwd=se&cb=jQuery1102021118769709343255_1502430880787&_=1502430880791, line 1: TypeError: jQuery1102021118769709343255_1502430880787 is not a function
-JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleni&json=1&p=3&sid=1458_13548_21079_20718&req=2&csor=6&pwd=selen&cb=jQuery1102021118769709343255_1502430880787&_=1502430880794, line 1: TypeError: jQuery1102021118769709343255_1502430880787 is not a function
-JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleniu&json=1&p=3&sid=1458_13548_21079_20718&req=2&csor=7&pwd=seleni&cb=jQuery1102021118769709343255_1502430880787&_=1502430880795, line 1: TypeError: jQuery1102021118769709343255_1502430880787 is not a function
-JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selenium&json=1&p=3&sid=1458_13548_21079_20718&req=2&csor=8&pwd=seleniu&cb=jQuery1102021118769709343255_1502430880787&_=1502430880796, line 1: TypeError: jQuery1102021118769709343255_1502430880787 is not a function
+1503467162401	geckodriver	INFO	Listening on 127.0.0.1:54831
+1503467165710	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503467186528	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource:///modules/ExtensionsUI.jsm, line 50: TypeError: RecentWindow.getMostRecentBrowserWindow(...) is null
+[Child 9696] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9696] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1503467206690	Marionette	INFO	Listening on port 54859
+1503467207036	Marionette	INFO	Listening on port 54859
+1503467207047	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503467214175	Marionette	DEBUG	loaded listener.js
+[GPU 9376] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10080] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 9376] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1503467506077	geckodriver	INFO	Listening on 127.0.0.1:56270
+1503467508075	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503467509641	Marionette	INFO	Enabled via --marionette
+[GPU 8776] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1503467517452	Marionette	INFO	Listening on port 56288
+1503467517459	Marionette	INFO	Listening on port 56288
+[Child 9764] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1503467517981	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503467518017	Marionette	DEBUG	loaded listener.js
+[GPU 8776] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 8776] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10084] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8696] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1503467620769	geckodriver	INFO	Listening on 127.0.0.1:56762
+1503467622701	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503467624509	Marionette	INFO	Enabled via --marionette
+[GPU 9012] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8988] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8988] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1503467628948	Marionette	INFO	Listening on port 56777
+1503467628953	Marionette	INFO	Listening on port 56777
+1503467628978	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503467629024	Marionette	DEBUG	loaded listener.js
+1503467807497	geckodriver	INFO	Listening on 127.0.0.1:57380
+1503467809376	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503467810949	Marionette	INFO	Enabled via --marionette
+[GPU 10196] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1503467815065	Marionette	INFO	Listening on port 57386
+1503467815212	Marionette	INFO	Listening on port 57386
+1503467815237	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503467815271	Marionette	DEBUG	loaded listener.js
+1503467970268	geckodriver	INFO	Listening on 127.0.0.1:57434
+1503467972241	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503467973601	Marionette	INFO	Enabled via --marionette
+[GPU 9936] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1503467977173	Marionette	INFO	Listening on port 57440
+1503467977414	Marionette	INFO	Listening on port 57440
+1503467977496	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503467977529	Marionette	DEBUG	loaded listener.js
+1503468040597	geckodriver	INFO	Listening on 127.0.0.1:57481
+1503468042424	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503468043713	Marionette	INFO	Enabled via --marionette
+1503468047314	Marionette	INFO	Listening on port 57487
+[Child 9628] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9628] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1503468047324	Marionette	INFO	Listening on port 57487
+1503468047734	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503468047768	Marionette	DEBUG	loaded listener.js
+[GPU 7780] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 7780] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10116] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10116] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1503468162825	geckodriver	INFO	Listening on 127.0.0.1:57538
+1503468164711	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503468166409	Marionette	INFO	Enabled via --marionette
+1503468170241	Marionette	INFO	Listening on port 57545
+1503468170248	Marionette	INFO	Listening on port 57545
+1503468170602	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503468170640	Marionette	DEBUG	loaded listener.js
+[GPU 9452] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 9452] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9764] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8184] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8184] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1503468291298	geckodriver	INFO	Listening on 127.0.0.1:57677
+1503468293234	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503468295476	Marionette	INFO	Enabled via --marionette
+[GPU 9348] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1503468307280	Marionette	INFO	Listening on port 57683
+1503468307296	Marionette	INFO	Listening on port 57683
+[Child 9048] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9048] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1503468307445	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503468307481	Marionette	DEBUG	loaded listener.js
+[Child 6796] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1503469006183	geckodriver	INFO	Listening on 127.0.0.1:57882
+1503469008131	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503469009988	Marionette	INFO	Enabled via --marionette
+[GPU 9164] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1503469015696	Marionette	INFO	Listening on port 57888
+1503469015716	Marionette	INFO	Listening on port 57888
+1503469015965	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503469016007	Marionette	DEBUG	loaded listener.js
+1503469277217	geckodriver	INFO	Listening on 127.0.0.1:57964
+1503469279158	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503469280951	Marionette	INFO	Enabled via --marionette
+[GPU 11128] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1503469284835	Marionette	INFO	Listening on port 57970
+1503469284856	Marionette	INFO	Listening on port 57970
+1503469285112	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503469285172	Marionette	DEBUG	loaded listener.js
+[GPU 11128] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+GPU 2000] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1503469542769	Marionette	INFO	Listening on port 58189
+1503469542791	Marionette	INFO	Listening on port 58189
+1503469543000	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503469543057	Marionette	DEBUG	loaded listener.js
+[GPU 2000] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9928] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10560] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ ignored for this session
+1503469672716	Marionette	DEBUG	loaded listener.js
+1503469683837	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503469684000	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503469684001	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1503469684874	Marionette	DEBUG	Received DOM event "pageshow" for "http://finance.sina.com.cn/data/#stock?qq-pf-to=pcqq.group"
+1503469685197	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://finance.sina.com.cn/data/#stock?qq-pf-to=pcqq.group"
+1503469685294	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://beacon.sina.com.cn/ckctl.html"
+1503469685298	Marionette	DEBUG	Received DOM event "pageshow" for "http://beacon.sina.com.cn/ckctl.html"
+1503469685314	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://finance.sina.com.cn/data/analysis.html?page=stock,schq,hsgs,qbag&refer=&r=0.6712916110223516"
+1503469685518	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://beacon.sina.com.cn/ckctl.html"
+1503469685524	Marionette	DEBUG	Received DOM event "pageshow" for "http://beacon.sina.com.cn/ckctl.html"
+1503469685606	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://d5.sina.com.cn/litong/zhitou/sinaads/src/spec/sinaads_ck.html"
+1503469685847	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://news.sina.com.cn/iframe/87/store.html?handle=___SinaadsCrossDomainStorage___.onReady&domain=sina.com.cn"
+1503469685852	Marionette	DEBUG	Received DOM event "pageshow" for "http://news.sina.com.cn/iframe/87/store.html?handle=___SinaadsCrossDomainStorage___.onReady&domain=sina.com.cn"
+1503469685856	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://d9.sina.com.cn/litong/zhitou/sinaads/src/spec/sinaads_ck.html"
+1503469685867	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://current.sina.com.cn/theone/IO.WebPush4.localConn.html"
+1503469685869	Marionette	DEBUG	Received DOM event "pageshow" for "https://current.sina.com.cn/theone/IO.WebPush4.localConn.html"
+1503469685869	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://news.sina.com.cn/iframe/87/store.html?handle=___SinaadsCrossDomainStorage___.onReady&domain=sina.com.cn"
+1503469685870	Marionette	DEBUG	Received DOM event "pageshow" for "http://news.sina.com.cn/iframe/87/store.html?handle=___SinaadsCrossDomainStorage___.onReady&domain=sina.com.cn"
+1503469686111	Marionette	DEBUG	Received DOM event "pageshow" for "http://d5.sina.com.cn/litong/zhitou/sinaads/src/spec/sinaads_ck.html"
+1503469686222	Marionette	DEBUG	Received DOM event "pageshow" for "http://d9.sina.com.cn/litong/zhitou/sinaads/src/spec/sinaads_ck.html"
+1503469686223	Marionette	DEBUG	Received DOM event "pageshow" for "http://finance.sina.com.cn/data/analysis.html?page=stock,schq,hsgs,qbag&refer=&r=0.6712916110223516"
+1503469686232	Marionette	DEBUG	Received DOM event "pageshow" for "http://finance.sina.com.cn/data/#stock?qq-pf-to=pcqq.group"
+1503469691358	Marionette	DEBUG	Received DOM event "pagehide" for "http://finance.sina.com.cn/data/#stock?qq-pf-to=pcqq.group"
+1503469691583	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503469697677	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503469706306	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503469715111	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503469724325	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503469733740	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503469743271	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: http://finance.sina.com.cn/js/data/20140924/util.js line 74 > eval, line 1: ReferenceError: hq_str_sh600624 is not defined
+1503469752445	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503469762260	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: http://finance.sina.com.cn/js/data/20140924/util.js line 74 > eval, line 1: ReferenceError: hq_str_sh600821 is not defined
+[GPU 10776] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 10776] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9860] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11308] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11308] WARNING: pipe error: 232: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 11308] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1503469782026	geckodriver	INFO	Listening on 127.0.0.1:59075
+1503469783876	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503469785808	Marionette	INFO	Enabled via --marionette
+[GPU 10204] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1503469790356	Marionette	INFO	Listening on port 59083
+[Child 9836] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9836] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1503469790402	Marionette	INFO	Listening on port 59083
+1503469790896	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503469790932	Marionette	DEBUG	loaded listener.js
+1503469793580	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503469793671	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503469793671	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1503469794121	Marionette	DEBUG	Received DOM event "pageshow" for "http://finance.sina.com.cn/data/analysis.html"
+1503469794238	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://finance.sina.com.cn/data/analysis.html"
+1503469794389	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://finance.sina.com.cn/data/#stock?qq-pf-to=pcqq.group"
+1503469794430	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://beacon.sina.com.cn/ckctl.html"
+1503469794434	Marionette	DEBUG	Received DOM event "pageshow" for "http://beacon.sina.com.cn/ckctl.html"
+1503469794496	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://d5.sina.com.cn/litong/zhitou/sinaads/src/spec/sinaads_ck.html"
+1503469794704	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://news.sina.com.cn/iframe/87/store.html?handle=___SinaadsCrossDomainStorage___.onReady&domain=sina.com.cn"
+1503469794705	Marionette	DEBUG	Received DOM event "pageshow" for "http://news.sina.com.cn/iframe/87/store.html?handle=___SinaadsCrossDomainStorage___.onReady&domain=sina.com.cn"
+1503469795149	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://finance.sina.com.cn/data/analysis.html?page=stock,schq,hsgs,qbag&refer=&r=0.20053562468008024"
+1503469795152	Marionette	DEBUG	Received DOM event "pageshow" for "http://d5.sina.com.cn/litong/zhitou/sinaads/src/spec/sinaads_ck.html"
+1503469795155	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://beacon.sina.com.cn/ckctl.html"
+1503469795156	Marionette	DEBUG	Received DOM event "pageshow" for "http://beacon.sina.com.cn/ckctl.html"
+1503469795199	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://d7.sina.com.cn/litong/zhitou/sinaads/src/spec/sinaads_ck.html"
+1503469795236	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://news.sina.com.cn/iframe/87/store.html?handle=___SinaadsCrossDomainStorage___.onReady&domain=sina.com.cn"
+1503469795237	Marionette	DEBUG	Received DOM event "pageshow" for "http://news.sina.com.cn/iframe/87/store.html?handle=___SinaadsCrossDomainStorage___.onReady&domain=sina.com.cn"
+1503469795238	Marionette	DEBUG	Received DOM event "pageshow" for "http://d7.sina.com.cn/litong/zhitou/sinaads/src/spec/sinaads_ck.html"
+1503469795239	Marionette	DEBUG	Received DOM event "pageshow" for "http://finance.sina.com.cn/data/analysis.html?page=stock,schq,hsgs,qbag&refer=&r=0.20053562468008024"
+1503469795630	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://current.sina.com.cn/theone/IO.WebPush4.localConn.html"
+1503469795632	Marionette	DEBUG	Received DOM event "pageshow" for "https://current.sina.com.cn/theone/IO.WebPush4.localConn.html"
+1503469795645	Marionette	DEBUG	Received DOM event "pageshow" for "http://finance.sina.com.cn/data/#stock?qq-pf-to=pcqq.group"
+1503469800008	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503469805742	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503469814082	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503469822851	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503469831910	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503469840957	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503469849849	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: http://finance.sina.com.cn/js/data/20140924/util.js line 74 > eval, line 1: ReferenceError: hq_str_sh600624 is not defined
+1503469858843	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503469868378	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503469877808	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503469887489	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503469897253	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503469907184	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503469917211	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503469927530	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503469937649	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503469949119	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503469959701	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503469969920	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: http://finance.sina.com.cn/js/data/20140924/util.js line 74 > eval, line 1: ReferenceError: hq_str_sz000598 is not defined
+1503469984729	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503469996970	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503470013387	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503470028111	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503470043768	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503470065027	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503470082913	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: http://finance.sina.com.cn/js/data/20140924/util.js line 74 > eval, line 1: ReferenceError: hq_str_sz002275 is not defined
+JavaScript error: http://finance.sina.com.cn/js/data/20140924/util.js line 74 > eval, line 1: ReferenceError: hq_str_sz002275 is not defined
+JavaScript error: http://finance.sina.com.cn/js/data/20140924/util.js line 74 > eval, line 1: ReferenceError: hq_str_sz002275 is not defined
+1503470109581	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503470140741	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: http://finance.sina.com.cn/js/data/20140924/util.js line 74 > eval, line 1: ReferenceError: hq_str_sz002435 is not defined
+JavaScript error: http://finance.sina.com.cn/js/data/20140924/util.js line 74 > eval, line 1: ReferenceError: hq_str_sz002435 is not defined
+JavaScript error: http://finance.sina.com.cn/js/data/20140924/util.js line 74 > eval, line 1: ReferenceError: hq_str_sz002435 is not defined
+JavaScript error: http://finance.sina.com.cn/js/data/20140924/util.js line 74 > eval, line 1: ReferenceError: hq_str_sz002435 is not defined
+JavaScript error: http://finance.sina.com.cn/js/data/20140924/util.js line 74 > eval, line 1: ReferenceError: hq_str_sz002435 is not defined
+1503470167669	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503470195151	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503470232003	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503470254450	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503470299151	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503470355100	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: http://finance.sina.com.cn/js/data/20140924/util.js line 74 > eval, line 1: ReferenceError: hq_str_sz300039 is not defined
+1503470402566	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503470472926	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503470539011	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503470605733	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503470733790	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: this.connection is null
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: this.connection is null
+1503470864974	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: n.connection is null
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: n.connection is null
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: n.connection is null
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: this.connection is null
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: n.connection is null
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: n.connection is null
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: n.connection is null
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: this.connection is null
+1503473291545	geckodriver	INFO	Listening on 127.0.0.1:49269
+1503473293471	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503473297849	Marionette	INFO	Enabled via --marionette
+[GPU 10328] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1503473303842	Marionette	INFO	Listening on port 49277
+1503473303860	Marionette	INFO	Listening on port 49277
+1503473304014	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503473304067	Marionette	DEBUG	loaded listener.js
+1503473307413	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503473307494	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503473307494	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503473310039	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://news.qq.com/"
+1503473310180	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://radio.t.qq.com/proxy.html"
+1503473310182	Marionette	DEBUG	Received DOM event "pageshow" for "http://radio.t.qq.com/proxy.html"
+1503473311045	Marionette	DEBUG	Received DOM event "pageshow" for "http://news.qq.com/"
+1503473354385	geckodriver	INFO	Listening on 127.0.0.1:49416
+1503473356491	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503473357768	Marionette	INFO	Enabled via --marionette
+[GPU 10960] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1503473361281	Marionette	INFO	Listening on port 49423
+1503473361350	Marionette	INFO	Listening on port 49423
+1503473361826	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503473361856	Marionette	DEBUG	loaded listener.js
+1503473364505	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503473364579	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503473364579	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503473365411	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://news.qq.com/"
+1503473366053	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://radio.t.qq.com/proxy.html"
+1503473366056	Marionette	DEBUG	Received DOM event "pageshow" for "http://radio.t.qq.com/proxy.html"
+1503473372511	Marionette	DEBUG	Received DOM event "pageshow" for "http://news.qq.com/"
+1503474525710	geckodriver	INFO	Listening on 127.0.0.1:50139
+1503474527631	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503474529521	Marionette	INFO	Enabled via --marionette
+[GPU 10208] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1503474533304	Marionette	INFO	Listening on port 50145
+1503474533366	Marionette	INFO	Listening on port 50145
+1503474533631	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503474533654	Marionette	DEBUG	loaded listener.js
+1503474537044	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503474537079	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503474537079	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503474538172	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://news.qq.com/"
+1503474538759	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://radio.t.qq.com/proxy.html"
+1503474538761	Marionette	DEBUG	Received DOM event "pageshow" for "http://radio.t.qq.com/proxy.html"
+1503474542640	Marionette	DEBUG	Received DOM event "pageshow" for "http://news.qq.com/"
+1503474700530	geckodriver	INFO	Listening on 127.0.0.1:50299
+1503474702514	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503474704276	Marionette	INFO	Enabled via --marionette
+[GPU 12092] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1503474707672	Marionette	INFO	Listening on port 50306
+[Child 11712] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1503474707721	Marionette	INFO	Listening on port 50306
+1503474708010	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503474708049	Marionette	DEBUG	loaded listener.js
+1503474711030	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503474711099	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503474711099	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503474712570	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://news.qq.com/"
+1503474712742	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://radio.t.qq.com/proxy.html"
+1503474712745	Marionette	DEBUG	Received DOM event "pageshow" for "http://radio.t.qq.com/proxy.html"
+1503474715568	Marionette	DEBUG	Received DOM event "pageshow" for "http://news.qq.com/"
+1503474803162	geckodriver	INFO	Listening on 127.0.0.1:50584
+1503474805242	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503474806524	Marionette	INFO	Enabled via --marionette
+[GPU 11112] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1503474810879	Marionette	INFO	Listening on port 50598
+1503474810901	Marionette	INFO	Listening on port 50598
+1503474811192	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503474811221	Marionette	DEBUG	loaded listener.js
+1503474814561	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503474814637	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503474814637	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503474815751	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://news.qq.com/"
+1503474816062	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://radio.t.qq.com/proxy.html"
+1503474816063	Marionette	DEBUG	Received DOM event "pageshow" for "http://radio.t.qq.com/proxy.html"
+1503474816847	Marionette	DEBUG	Received DOM event "pageshow" for "http://news.qq.com/"
+1503474890476	geckodriver	INFO	Listening on 127.0.0.1:51045
+1503474892372	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503474894598	Marionette	INFO	Enabled via --marionette
+[GPU 5904] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11880] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11880] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1503474898939	Marionette	INFO	Listening on port 51060
+1503474898987	Marionette	INFO	Listening on port 51060
+1503474899339	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503474899374	Marionette	DEBUG	loaded listener.js
+1503474901718	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503474901757	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503474901758	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503474903279	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://news.qq.com/"
+1503474903450	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://radio.t.qq.com/proxy.html"
+1503474903453	Marionette	DEBUG	Received DOM event "pageshow" for "http://radio.t.qq.com/proxy.html"
+1503474904378	Marionette	DEBUG	Received DOM event "pageshow" for "http://news.qq.com/"
+1503474987791	geckodriver	INFO	Listening on 127.0.0.1:51548
+1503474989860	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503474991435	Marionette	INFO	Enabled via --marionette
+[GPU 8444] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8556] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8556] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1503474995026	Marionette	INFO	Listening on port 51565
+1503474995063	Marionette	INFO	Listening on port 51565
+1503474995218	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503474995258	Marionette	DEBUG	loaded listener.js
+1503474997346	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503474997388	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503474997389	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503474998478	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://news.qq.com/"
+1503474999312	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://radio.t.qq.com/proxy.html"
+1503474999314	Marionette	DEBUG	Received DOM event "pageshow" for "http://radio.t.qq.com/proxy.html"
+1503475003612	Marionette	DEBUG	Received DOM event "pageshow" for "http://news.qq.com/"
+1503475077988	geckodriver	INFO	Listening on 127.0.0.1:52000
+1503475079900	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503475082267	Marionette	INFO	Enabled via --marionette
+[GPU 12188] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1503475090869	Marionette	INFO	Listening on port 52015
+1503475090879	Marionette	INFO	Listening on port 52015
+1503475091018	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503475091048	Marionette	DEBUG	loaded listener.js
+1503475094149	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503475094380	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503475094381	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503475095899	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://news.qq.com/"
+1503475096459	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://radio.t.qq.com/proxy.html"
+1503475096461	Marionette	DEBUG	Received DOM event "pageshow" for "http://radio.t.qq.com/proxy.html"
+1503475098306	Marionette	DEBUG	Received DOM event "pageshow" for "http://news.qq.com/"
+[GPU 12188] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 12188] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11252] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9232] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 12188] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1503475512030	geckodriver	INFO	Listening on 127.0.0.1:53425
+1503475514032	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503475516031	Marionette	INFO	Enabled via --marionette
+[GPU 10816] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1503475519508	Marionette	INFO	Listening on port 53431
+1503475519516	Marionette	INFO	Listening on port 53431
+1503475519921	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503475520041	Marionette	DEBUG	loaded listener.js
+1503475522695	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503475522736	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503475522737	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503475524260	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://news.qq.com/"
+1503475524589	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://radio.t.qq.com/proxy.html"
+1503475524626	Marionette	DEBUG	Received DOM event "pageshow" for "http://radio.t.qq.com/proxy.html"
+1503475525959	Marionette	DEBUG	Received DOM event "pageshow" for "http://news.qq.com/"
+1503475675847	geckodriver	INFO	Listening on 127.0.0.1:54467
+1503475677743	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503475679933	Marionette	INFO	Enabled via --marionette
+[GPU 10680] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1503475683633	Marionette	INFO	Listening on port 54473
+1503475683660	Marionette	INFO	Listening on port 54473
+1503475683772	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503475683807	Marionette	DEBUG	loaded listener.js
+1503475686759	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503475686864	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503475686865	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503475688348	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://news.qq.com/"
+1503475688622	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://radio.t.qq.com/proxy.html"
+1503475688624	Marionette	DEBUG	Received DOM event "pageshow" for "http://radio.t.qq.com/proxy.html"
+1503475694323	Marionette	DEBUG	Received DOM event "pageshow" for "http://news.qq.com/"
+1503476326567	geckodriver	INFO	Listening on 127.0.0.1:55560
+1503476328473	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503476330359	Marionette	INFO	Enabled via --marionette
+[GPU 7012] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11628] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11628] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1503476334642	Marionette	INFO	Listening on port 55566
+1503476334659	Marionette	INFO	Listening on port 55566
+1503476335050	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503476335090	Marionette	DEBUG	loaded listener.js
+1503476338319	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503476338370	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503476338370	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503476339224	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://news.qq.com/"
+1503476340442	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://radio.t.qq.com/proxy.html"
+1503476340444	Marionette	DEBUG	Received DOM event "pageshow" for "http://radio.t.qq.com/proxy.html"
+1503476341413	Marionette	DEBUG	Received DOM event "pageshow" for "http://news.qq.com/"
+1503476616420	geckodriver	INFO	Listening on 127.0.0.1:56599
+1503476618308	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503476620283	Marionette	INFO	Enabled via --marionette
+[GPU 11912] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1503476623973	Marionette	INFO	Listening on port 56605
+1503476623987	Marionette	INFO	Listening on port 56605
+[Parent 10236] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6236] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6236] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1503476624184	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503476624205	Marionette	DEBUG	loaded listener.js
+1503476627479	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503476627512	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503476627512	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503476628499	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://news.qq.com/"
+1503476629046	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://radio.t.qq.com/proxy.html"
+1503476629050	Marionette	DEBUG	Received DOM event "pageshow" for "http://radio.t.qq.com/proxy.html"
+1503476629832	Marionette	DEBUG	Received DOM event "pageshow" for "http://news.qq.com/"
+1503476919715	geckodriver	INFO	Listening on 127.0.0.1:57646
+1503476921636	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503476923428	Marionette	INFO	Enabled via --marionette
+[GPU 7588] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9672] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9672] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1503476927720	Marionette	INFO	Listening on port 57653
+1503476927759	Marionette	INFO	Listening on port 57653
+1503476927987	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503476928024	Marionette	DEBUG	loaded listener.js
+1503476930012	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503476930074	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503476930074	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503476932478	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://news.qq.com/"
+1503476932698	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://radio.t.qq.com/proxy.html"
+1503476932699	Marionette	DEBUG	Received DOM event "pageshow" for "http://radio.t.qq.com/proxy.html"
+1503476935972	Marionette	DEBUG	Received DOM event "pageshow" for "http://news.qq.com/"
+1503477136996	geckodriver	INFO	Listening on 127.0.0.1:58817
+1503477139044	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503477140514	Marionette	INFO	Enabled via --marionette
+[GPU 11392] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1503477145084	Marionette	INFO	Listening on port 58823
+[Child 10676] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10676] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1503477145107	Marionette	INFO	Listening on port 58823
+1503477145527	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503477145579	Marionette	DEBUG	loaded listener.js
+1503477148409	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503477148506	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503477148507	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503477150327	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://news.qq.com/"
+1503477151235	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://radio.t.qq.com/proxy.html"
+1503477151237	Marionette	DEBUG	Received DOM event "pageshow" for "http://radio.t.qq.com/proxy.html"
+1503477155368	Marionette	DEBUG	Received DOM event "pageshow" for "http://news.qq.com/"
+1503477267291	geckodriver	INFO	Listening on 127.0.0.1:59865
+1503477269186	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503477271431	Marionette	INFO	Enabled via --marionette
+[GPU 11168] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1503477274996	Marionette	INFO	Listening on port 59871
+1503477275121	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503477275200	Marionette	DEBUG	loaded listener.js
+1503477275235	Marionette	INFO	Listening on port 59871
+1503477277931	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503477278024	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503477278024	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503477279395	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://news.qq.com/"
+1503477279596	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://radio.t.qq.com/proxy.html"
+1503477279598	Marionette	DEBUG	Received DOM event "pageshow" for "http://radio.t.qq.com/proxy.html"
+1503477280526	Marionette	DEBUG	Received DOM event "pageshow" for "http://news.qq.com/"
+1503479631019	geckodriver	INFO	Listening on 127.0.0.1:61070
+1503479632804	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503479643977	Marionette	INFO	Enabled via --marionette
+[GPU 8892] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1503479649938	Marionette	INFO	Listening on port 61085
+1503479649965	Marionette	INFO	Listening on port 61085
+1503479650184	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503479650216	Marionette	DEBUG	loaded listener.js
+1503479653537	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503479653619	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503479653619	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503479655152	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://news.qq.com/"
+1503479655303	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://radio.t.qq.com/proxy.html"
+1503479655304	Marionette	DEBUG	Received DOM event "pageshow" for "http://radio.t.qq.com/proxy.html"
+1503479658920	Marionette	DEBUG	Received DOM event "pageshow" for "http://news.qq.com/"
+1503479682895	Marionette	DEBUG	Received DOM event "beforeunload" for "http://news.qq.com/"
+1503479682969	Marionette	DEBUG	Received DOM event "pagehide" for "http://news.qq.com/"
+1503479682970	Marionette	DEBUG	Received DOM event "unload" for "http://news.qq.com/"
+1503479683361	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1503479683663	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://news.qq.com/a/20170822/049695.htm"
+1503479683762	Marionette	DEBUG	Received DOM event "pageshow" for "http://news.qq.com/a/20170822/049695.htm"
+JavaScript warning: http://mat1.gtimg.com/pingjs/ext2020/dc/module/GJ/spjg.js, line 553: unreachable code after return statement
+1503479684044	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://news.qq.com/a/20170822/049695.htm"
+1503479684483	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://wa.gtimg.com/website/201705/bjjdsj_FZW_20170515161318.html?tclick=http%3A%2F%2Fc.l.qq.com%2Flclick%3Foid%3D3410375%26cid%3D1895595%26loc%3DF_Z_Width1%26soid%3DZHoN0gAAWZ1HhQnjsQKdcU6BAcTj%26click_data%3DdXNlcl9pbmZvPW9BRGptamM3RXhBPSZheHBoZWFkZXI9MSZwYWdlX3R5cGU9MiZzc3A9MSZ1cF92ZXJzaW9uPVMxOHxMNTcxfEE0M3xCMTc2MiZ2aWV3aXA9MTc1NTkxNzU1%26index%3D1%26chl%3D3"
+1503479684944	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://static-alias-1.360buyimg.com/jzt/tpl/sspPic.html?ad_ids=2415:5&adflag=0&clkmn=http%3A%2F%2Fc.l.qq.com%2Flclick%3Fseq%3D20170329000154&expose="
+1503479685045	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://wa.gtimg.com/website/201607/tbzg_QNR_20160705170003.html?tclick=http%3A%2F%2Fc.l.qq.com%2Flclick%3Foid%3D3480115%26cid%3D1478855%26loc%3DF_ZQ_3%26soid%3DZHoN0gAAWZ1HhQnjsQS9MlF3AcTj%26click_data%3DdXNlcl9pbmZvPW9BRGptamM3RXhBPSZheHBoZWFkZXI9MSZwYWdlX3R5cGU9MiZzc3A9MSZ1cF92ZXJzaW9uPVMxOHxMNTcxfEE0M3xCMTc2MiZ2aWV3aXA9MTc1NTkxNzU1%26index%3D1%26chl%3D3"
+1503479685064	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://wa.gtimg.com/website/201606/tbzg_FRN_20160616120512.html?tclick=http%3A%2F%2Fc.l.qq.com%2Flclick%3Foid%3D3489393%26cid%3D1453491%26loc%3DF_Rectangle_N%26soid%3DZHoN0gAAWZ1HhQnjsQdYyb3IAcTj%26click_data%3DdXNlcl9pbmZvPW9BRGptamM3RXhBPSZheHBoZWFkZXI9MSZwYWdlX3R5cGU9MiZzc3A9MSZ1cF92ZXJzaW9uPVMxOHxMNTcxfEE0M3xCMTc2MiZ2aWV3aXA9MTc1NTkxNzU1%26index%3D1%26chl%3D3"
+1503479685067	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://wa.gtimg.com/website/201606/tbzg_FRN_20160616120512.html?tclick=http%3A%2F%2Fc.l.qq.com%2Flclick%3Foid%3D3489393%26cid%3D1453491%26loc%3DF_Rectangle_N%26soid%3DZHoN0gAAWZ1HhQnjsQdYyb3IAcTj%26click_data%3DdXNlcl9pbmZvPW9BRGptamM3RXhBPSZheHBoZWFkZXI9MSZwYWdlX3R5cGU9MiZzc3A9MSZ1cF92ZXJzaW9uPVMxOHxMNTcxfEE0M3xCMTc2MiZ2aWV3aXA9MTc1NTkxNzU1%26index%3D1%26chl%3D3"
+1503479685074	Marionette	DEBUG	Received DOM event "pageshow" for "http://wa.gtimg.com/website/201606/tbzg_FRN_20160616120512.html?tclick=http%3A%2F%2Fc.l.qq.com%2Flclick%3Foid%3D3489393%26cid%3D1453491%26loc%3DF_Rectangle_N%26soid%3DZHoN0gAAWZ1HhQnjsQdYyb3IAcTj%26click_data%3DdXNlcl9pbmZvPW9BRGptamM3RXhBPSZheHBoZWFkZXI9MSZwYWdlX3R5cGU9MiZzc3A9MSZ1cF92ZXJzaW9uPVMxOHxMNTcxfEE0M3xCMTc2MiZ2aWV3aXA9MTc1NTkxNzU1%26index%3D1%26chl%3D3"
+1503479685295	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://wa.gtimg.com/website/201606/tbzg_FRN_20160616120512.html?tclick=http%3A%2F%2Fc.l.qq.com%2Flclick%3Foid%3D3489393%26cid%3D1453491%26loc%3DF_Rectangle_N%26soid%3DZHoN0gAAWZ1HhQnjsQdYyb3IAcTj%26click_data%3DdXNlcl9pbmZvPW9BRGptamM3RXhBPSZheHBoZWFkZXI9MSZwYWdlX3R5cGU9MiZzc3A9MSZ1cF92ZXJzaW9uPVMxOHxMNTcxfEE0M3xCMTc2MiZ2aWV3aXA9MTc1NTkxNzU1%26index%3D1%26chl%3D3"
+1503479685304	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://phs.tanx.com/acbeacon4.html#mm_26051537_2367569_9275045"
+1503479685310	Marionette	DEBUG	Received DOM event "pageshow" for "https://phs.tanx.com/acbeacon4.html#mm_26051537_2367569_9275045"
+1503479685314	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://a1.alicdn.com/creation/html/2016/06/20/creation-245057E3sJ6U0UZ8D-2830683.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_26051537_2367569_9275045%26pvid%3d0a6728900000599d478608b200daacf5%26s%3d300x250%26d%3d0%26t%3d1503479686&pid=mm_26051537_2367569_9275045&tp=5&tsid=0a6728900000599d478608b200daacf5&pid=mm_26051537_2367569_9275045"
+1503479685315	Marionette	DEBUG	Received DOM event "pageshow" for "https://a1.alicdn.com/creation/html/2016/06/20/creation-245057E3sJ6U0UZ8D-2830683.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_26051537_2367569_9275045%26pvid%3d0a6728900000599d478608b200daacf5%26s%3d300x250%26d%3d0%26t%3d1503479686&pid=mm_26051537_2367569_9275045&tp=5&tsid=0a6728900000599d478608b200daacf5&pid=mm_26051537_2367569_9275045"
+1503479685326	Marionette	DEBUG	Received DOM event "pageshow" for "http://wa.gtimg.com/website/201607/tbzg_QNR_20160705170003.html?tclick=http%3A%2F%2Fc.l.qq.com%2Flclick%3Foid%3D3480115%26cid%3D1478855%26loc%3DF_ZQ_3%26soid%3DZHoN0gAAWZ1HhQnjsQS9MlF3AcTj%26click_data%3DdXNlcl9pbmZvPW9BRGptamM3RXhBPSZheHBoZWFkZXI9MSZwYWdlX3R5cGU9MiZzc3A9MSZ1cF92ZXJzaW9uPVMxOHxMNTcxfEE0M3xCMTc2MiZ2aWV3aXA9MTc1NTkxNzU1%26index%3D1%26chl%3D3"
+1503479685338	Marionette	DEBUG	Received DOM event "pageshow" for "http://static-alias-1.360buyimg.com/jzt/tpl/sspPic.html?ad_ids=2415:5&adflag=0&clkmn=http%3A%2F%2Fc.l.qq.com%2Flclick%3Fseq%3D20170329000154&expose="
+1503479685339	Marionette	DEBUG	Received DOM event "pageshow" for "http://wa.gtimg.com/website/201705/bjjdsj_FZW_20170515161318.html?tclick=http%3A%2F%2Fc.l.qq.com%2Flclick%3Foid%3D3410375%26cid%3D1895595%26loc%3DF_Z_Width1%26soid%3DZHoN0gAAWZ1HhQnjsQKdcU6BAcTj%26click_data%3DdXNlcl9pbmZvPW9BRGptamM3RXhBPSZheHBoZWFkZXI9MSZwYWdlX3R5cGU9MiZzc3A9MSZ1cF92ZXJzaW9uPVMxOHxMNTcxfEE0M3xCMTc2MiZ2aWV3aXA9MTc1NTkxNzU1%26index%3D1%26chl%3D3"
+1503479685340	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://strip.alicdn.com/tfscom/TB1zbzjPFXXXXb7XXXXXXXXXXXX.html?name=itemdsp&url=http%3A%2F%2Fnews.qq.com%2Fa%2F20170822%2F049695.htm&iswt=1&pid=tt_26051537_2367569_9322822&refpid=tt_26051537_2367569_9322822&refpos=,n,i&adx_type=0&pvid=0a67170d0000599d4786231400d53af5_0&ps_id=ac19bf673722336669613367c95a4c4d&fl=10&x-client-scheme=http&tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_26051537_2367569_9322822%26pvid%3d0a67170d0000599d4786231400d53af5%26s%3d300x600%26d%3d17534123%26t%3d1503479686&u=http%3A%2F%2Fnews.qq.com%2Fa%2F20170822%2F049695.htm&r=&tp=2&tsid=0a67170d0000599d4786231400d53af5"
+1503479685701	Marionette	DEBUG	Received DOM event "pageshow" for "https://strip.alicdn.com/tfscom/TB1zbzjPFXXXXb7XXXXXXXXXXXX.html?name=itemdsp&url=http%3A%2F%2Fnews.qq.com%2Fa%2F20170822%2F049695.htm&iswt=1&pid=tt_26051537_2367569_9322822&refpid=tt_26051537_2367569_9322822&refpos=,n,i&adx_type=0&pvid=0a67170d0000599d4786231400d53af5_0&ps_id=ac19bf673722336669613367c95a4c4d&fl=10&x-client-scheme=http&tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_26051537_2367569_9322822%26pvid%3d0a67170d0000599d4786231400d53af5%26s%3d300x600%26d%3d17534123%26t%3d1503479686&u=http%3A%2F%2Fnews.qq.com%2Fa%2F20170822%2F049695.htm&r=&tp=2&tsid=0a67170d0000599d4786231400d53af5"
+1503479685703	Marionette	DEBUG	Received DOM event "pageshow" for "http://wa.gtimg.com/website/201606/tbzg_FRN_20160616120512.html?tclick=http%3A%2F%2Fc.l.qq.com%2Flclick%3Foid%3D3489393%26cid%3D1453491%26loc%3DF_Rectangle_N%26soid%3DZHoN0gAAWZ1HhQnjsQdYyb3IAcTj%26click_data%3DdXNlcl9pbmZvPW9BRGptamM3RXhBPSZheHBoZWFkZXI9MSZwYWdlX3R5cGU9MiZzc3A9MSZ1cF92ZXJzaW9uPVMxOHxMNTcxfEE0M3xCMTc2MiZ2aWV3aXA9MTc1NTkxNzU1%26index%3D1%26chl%3D3"
+1503479685705	Marionette	DEBUG	Received DOM event "pageshow" for "http://wa.gtimg.com/website/201606/tbzg_FRN_20160616120512.html?tclick=http%3A%2F%2Fc.l.qq.com%2Flclick%3Foid%3D3489393%26cid%3D1453491%26loc%3DF_Rectangle_N%26soid%3DZHoN0gAAWZ1HhQnjsQdYyb3IAcTj%26click_data%3DdXNlcl9pbmZvPW9BRGptamM3RXhBPSZheHBoZWFkZXI9MSZwYWdlX3R5cGU9MiZzc3A9MSZ1cF92ZXJzaW9uPVMxOHxMNTcxfEE0M3xCMTc2MiZ2aWV3aXA9MTc1NTkxNzU1%26index%3D1%26chl%3D3"
+1503479688040	Marionette	DEBUG	Received DOM event "pageshow" for "http://news.qq.com/a/20170822/049695.htm"
+1503479698556	Marionette	DEBUG	Received DOM event "beforeunload" for "http://news.qq.com/a/20170822/049695.htm"
+1503479698594	Marionette	DEBUG	Received DOM event "pagehide" for "http://news.qq.com/a/20170822/049695.htm"
+1503479698596	Marionette	DEBUG	Received DOM event "unload" for "http://news.qq.com/a/20170822/049695.htm"
+1503479698956	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1503479698958	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1503479698958	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1503479698958	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483676"
+1503479698959	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483671"
+1503479698959	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1503479698959	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1503479698959	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483670"
+1503479698960	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1503479699112	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://news.qq.com/a/20170822/048505.htm"
+1503479699114	Marionette	DEBUG	Received DOM event "pageshow" for "http://news.qq.com/a/20170822/048505.htm"
+1503479699205	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://news.qq.com/a/20170822/048505.htm"
+1503479699573	Marionette	DEBUG	Received DOM event "pageshow" for "http://news.qq.com/a/20170822/048505.htm"
+1503479708397	Marionette	DEBUG	Received DOM event "beforeunload" for "http://news.qq.com/a/20170822/048505.htm"
+1503479708534	Marionette	DEBUG	Received DOM event "pagehide" for "http://news.qq.com/a/20170822/048505.htm"
+1503479708535	Marionette	DEBUG	Received DOM event "unload" for "http://news.qq.com/a/20170822/048505.htm"
+JavaScript warning: http://mat1.gtimg.com/pingjs/ext2020/dc/module/GJ/spjg.js, line 553: unreachable code after return statement
+1503479708700	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://news.qq.com/a/20170822/062237.htm"
+1503479708704	Marionette	DEBUG	Received DOM event "pageshow" for "http://news.qq.com/a/20170822/062237.htm"
+1503479708764	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483681"
+1503479708840	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://news.qq.com/a/20170822/062237.htm"
+1503479709603	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://wa.gtimg.com/website/201705/bjjdsj_FZW_20170515161318.html?tclick=http%3A%2F%2Fc.l.qq.com%2Flclick%3Foid%3D3410373%26cid%3D1895595%26loc%3DF_Z_Width1%26soid%3DZHoN0gAAWZ1HngbZyQLWTUwxAdbZ%26click_data%3DdXNlcl9pbmZvPW9BRGptamM3RXhBPSZheHBoZWFkZXI9MSZwYWdlX3R5cGU9MiZzc3A9MSZ1cF92ZXJzaW9uPVMxOHxMNTcxfEE0M3xCMTc2MiZ2aWV3aXA9MTgzMTQyNDg1%26index%3D1%26chl%3D3"
+1503479709613	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://wa.gtimg.com/website/201705/bjjdsj_FZ2_20170531174739.html?tclick=http%3A%2F%2Fc.l.qq.com%2Flclick%3Foid%3D3410177%26cid%3D2001713%26loc%3DF_ZQ_2%26soid%3DZHoN0gAAWZ1HngbZyQR5buEtAdbZ%26click_data%3DdXNlcl9pbmZvPW9BRGptamM3RXhBPSZheHBoZWFkZXI9MSZwYWdlX3R5cGU9MiZzc3A9MSZ1cF92ZXJzaW9uPVMxOHxMNTcxfEE0M3xCMTc2MiZ2aWV3aXA9MTgzMTQyNDg1%26index%3D1%26chl%3D3"
+1503479709666	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://static-alias-1.360buyimg.com/jzt/tpl/sspPic.html?ad_ids=2416:5&adflag=0&clkmn=&expose="
+1503479709739	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://static-alias-1.360buyimg.com/jzt/tpl/sspPic.html?ad_ids=2415:5&adflag=0&clkmn=http%3A%2F%2Fc.l.qq.com%2Flclick%3Fseq%3D20170329000154&expose="
+1503479709790	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://wa.gtimg.com/website/201606/tbzg_FRN_20160616120512.html?tclick=http%3A%2F%2Fc.l.qq.com%2Flclick%3Foid%3D3489393%26cid%3D1453491%26loc%3DF_Rectangle_N%26soid%3DZHoN0gAAWZ1HngbZyQiFlfhuAdbZ%26click_data%3DdXNlcl9pbmZvPW9BRGptamM3RXhBPSZheHBoZWFkZXI9MSZwYWdlX3R5cGU9MiZzc3A9MSZ1cF92ZXJzaW9uPVMxOHxMNTcxfEE0M3xCMTc2MiZ2aWV3aXA9MTgzMTQyNDg1%26index%3D1%26chl%3D3"
+1503479709846	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://wa.gtimg.com/website/201607/tbzg_QNR_20160705170003.html?tclick=http%3A%2F%2Fc.l.qq.com%2Flclick%3Foid%3D3480111%26cid%3D1478855%26loc%3DF_ZQ_3%26soid%3DZHoN0gAAWZ1HngbZyQWhvRsZAdbZ%26click_data%3DdXNlcl9pbmZvPW9BRGptamM3RXhBPSZheHBoZWFkZXI9MSZwYWdlX3R5cGU9MiZzc3A9MSZ1cF92ZXJzaW9uPVMxOHxMNTcxfEE0M3xCMTc2MiZ2aWV3aXA9MTgzMTQyNDg1%26index%3D1%26chl%3D3"
+1503479709862	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://wa.gtimg.com/website/201607/tbzg_QNR_20160705170003.html?tclick=http%3A%2F%2Fc.l.qq.com%2Flclick%3Foid%3D3480111%26cid%3D1478855%26loc%3DF_ZQ_3%26soid%3DZHoN0gAAWZ1HngbZyQWhvRsZAdbZ%26click_data%3DdXNlcl9pbmZvPW9BRGptamM3RXhBPSZheHBoZWFkZXI9MSZwYWdlX3R5cGU9MiZzc3A9MSZ1cF92ZXJzaW9uPVMxOHxMNTcxfEE0M3xCMTc2MiZ2aWV3aXA9MTgzMTQyNDg1%26index%3D1%26chl%3D3"
+1503479709865	Marionette	DEBUG	Received DOM event "pageshow" for "http://wa.gtimg.com/website/201607/tbzg_QNR_20160705170003.html?tclick=http%3A%2F%2Fc.l.qq.com%2Flclick%3Foid%3D3480111%26cid%3D1478855%26loc%3DF_ZQ_3%26soid%3DZHoN0gAAWZ1HngbZyQWhvRsZAdbZ%26click_data%3DdXNlcl9pbmZvPW9BRGptamM3RXhBPSZheHBoZWFkZXI9MSZwYWdlX3R5cGU9MiZzc3A9MSZ1cF92ZXJzaW9uPVMxOHxMNTcxfEE0M3xCMTc2MiZ2aWV3aXA9MTgzMTQyNDg1%26index%3D1%26chl%3D3"
+1503479709896	Marionette	DEBUG	Received DOM event "pageshow" for "http://static-alias-1.360buyimg.com/jzt/tpl/sspPic.html?ad_ids=2416:5&adflag=0&clkmn=&expose="
+1503479709898	Marionette	DEBUG	Received DOM event "pageshow" for "http://wa.gtimg.com/website/201705/bjjdsj_FZ2_20170531174739.html?tclick=http%3A%2F%2Fc.l.qq.com%2Flclick%3Foid%3D3410177%26cid%3D2001713%26loc%3DF_ZQ_2%26soid%3DZHoN0gAAWZ1HngbZyQR5buEtAdbZ%26click_data%3DdXNlcl9pbmZvPW9BRGptamM3RXhBPSZheHBoZWFkZXI9MSZwYWdlX3R5cGU9MiZzc3A9MSZ1cF92ZXJzaW9uPVMxOHxMNTcxfEE0M3xCMTc2MiZ2aWV3aXA9MTgzMTQyNDg1%26index%3D1%26chl%3D3"
+1503479709899	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://wa.gtimg.com/website/201607/tbzg_QNR_20160705170003.html?tclick=http%3A%2F%2Fc.l.qq.com%2Flclick%3Foid%3D3480111%26cid%3D1478855%26loc%3DF_ZQ_3%26soid%3DZHoN0gAAWZ1HngbZyQWhvRsZAdbZ%26click_data%3DdXNlcl9pbmZvPW9BRGptamM3RXhBPSZheHBoZWFkZXI9MSZwYWdlX3R5cGU9MiZzc3A9MSZ1cF92ZXJzaW9uPVMxOHxMNTcxfEE0M3xCMTc2MiZ2aWV3aXA9MTgzMTQyNDg1%26index%3D1%26chl%3D3"
+1503479709932	Marionette	DEBUG	Received DOM event "pageshow" for "http://static-alias-1.360buyimg.com/jzt/tpl/sspPic.html?ad_ids=2415:5&adflag=0&clkmn=http%3A%2F%2Fc.l.qq.com%2Flclick%3Fseq%3D20170329000154&expose="
+1503479709935	Marionette	DEBUG	Received DOM event "pageshow" for "http://wa.gtimg.com/website/201705/bjjdsj_FZW_20170515161318.html?tclick=http%3A%2F%2Fc.l.qq.com%2Flclick%3Foid%3D3410373%26cid%3D1895595%26loc%3DF_Z_Width1%26soid%3DZHoN0gAAWZ1HngbZyQLWTUwxAdbZ%26click_data%3DdXNlcl9pbmZvPW9BRGptamM3RXhBPSZheHBoZWFkZXI9MSZwYWdlX3R5cGU9MiZzc3A9MSZ1cF92ZXJzaW9uPVMxOHxMNTcxfEE0M3xCMTc2MiZ2aWV3aXA9MTgzMTQyNDg1%26index%3D1%26chl%3D3"
+1503479709973	Marionette	DEBUG	Received DOM event "pageshow" for "http://wa.gtimg.com/website/201607/tbzg_QNR_20160705170003.html?tclick=http%3A%2F%2Fc.l.qq.com%2Flclick%3Foid%3D3480111%26cid%3D1478855%26loc%3DF_ZQ_3%26soid%3DZHoN0gAAWZ1HngbZyQWhvRsZAdbZ%26click_data%3DdXNlcl9pbmZvPW9BRGptamM3RXhBPSZheHBoZWFkZXI9MSZwYWdlX3R5cGU9MiZzc3A9MSZ1cF92ZXJzaW9uPVMxOHxMNTcxfEE0M3xCMTc2MiZ2aWV3aXA9MTgzMTQyNDg1%26index%3D1%26chl%3D3"
+1503479709974	Marionette	DEBUG	Received DOM event "pageshow" for "http://wa.gtimg.com/website/201607/tbzg_QNR_20160705170003.html?tclick=http%3A%2F%2Fc.l.qq.com%2Flclick%3Foid%3D3480111%26cid%3D1478855%26loc%3DF_ZQ_3%26soid%3DZHoN0gAAWZ1HngbZyQWhvRsZAdbZ%26click_data%3DdXNlcl9pbmZvPW9BRGptamM3RXhBPSZheHBoZWFkZXI9MSZwYWdlX3R5cGU9MiZzc3A9MSZ1cF92ZXJzaW9uPVMxOHxMNTcxfEE0M3xCMTc2MiZ2aWV3aXA9MTgzMTQyNDg1%26index%3D1%26chl%3D3"
+1503479709993	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://strip.alicdn.com/tfscom/TB1gDAOPXXXXXXeXFXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_26051537_2367569_9322822%26pvid%3d0a6714a10000599d479f067800cbd394%26s%3d300x600%26d%3d59420271%26t%3d1503479711&pid=mm_26051537_2367569_9322822&tp=3&tsid=0a6714a10000599d479f067800cbd394&u=http%3A%2F%2Fnews.qq.com%2Fa%2F20170822%2F062237.htm&r=&tp=3&tsid=0a6714a10000599d479f067800cbd394&pid=mm_26051537_2367569_9322822"
+1503479710213	Marionette	DEBUG	Received DOM event "pageshow" for "http://strip.alicdn.com/tfscom/TB1gDAOPXXXXXXeXFXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_26051537_2367569_9322822%26pvid%3d0a6714a10000599d479f067800cbd394%26s%3d300x600%26d%3d59420271%26t%3d1503479711&pid=mm_26051537_2367569_9322822&tp=3&tsid=0a6714a10000599d479f067800cbd394&u=http%3A%2F%2Fnews.qq.com%2Fa%2F20170822%2F062237.htm&r=&tp=3&tsid=0a6714a10000599d479f067800cbd394&pid=mm_26051537_2367569_9322822"
+1503479710213	Marionette	DEBUG	Received DOM event "pageshow" for "http://wa.gtimg.com/website/201606/tbzg_FRN_20160616120512.html?tclick=http%3A%2F%2Fc.l.qq.com%2Flclick%3Foid%3D3489393%26cid%3D1453491%26loc%3DF_Rectangle_N%26soid%3DZHoN0gAAWZ1HngbZyQiFlfhuAdbZ%26click_data%3DdXNlcl9pbmZvPW9BRGptamM3RXhBPSZheHBoZWFkZXI9MSZwYWdlX3R5cGU9MiZzc3A9MSZ1cF92ZXJzaW9uPVMxOHxMNTcxfEE0M3xCMTc2MiZ2aWV3aXA9MTgzMTQyNDg1%26index%3D1%26chl%3D3"
+1503479710218	Marionette	DEBUG	Received DOM event "pageshow" for "http://news.qq.com/a/20170822/062237.htm"
