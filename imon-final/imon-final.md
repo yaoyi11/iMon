@@ -41,7 +41,7 @@
 
     page表：
 
-    ![p0](diary\final\p0.PNG)
+    ![p0](/imon-final/screenshot/p0.PNG)
 
      url表：
 
