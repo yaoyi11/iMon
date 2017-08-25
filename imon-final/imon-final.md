@@ -45,11 +45,11 @@
 
      url表：
 
-    ![u0](/imon-final/screenshot/u0.PNG)
+    ![u0](screenshot/u0.PNG)
 
      crawl表：
 
-    ![c0](/imon-final/screenshot/c0.PNG)
+    ![c0](screenshot/c0.PNG)
 
 
 - datachart用于统计分析数据库里的内容，需要在first里面添加一个exdomains的数据表
