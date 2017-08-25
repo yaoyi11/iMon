@@ -45,16 +45,16 @@
 
      url表：
 
-    ![u0](diary\final\u0.PNG)
+    ![u0](/imon-final/screenshot/u0.PNG)
 
      crawl表：
 
-    ![c0](diary\final\c0.PNG)
+    ![c0](/imon-final/screenshot/c0.PNG)
 
 
 - datachart用于统计分析数据库里的内容，需要在first里面添加一个exdomains的数据表
 
-    ![e0](diary\final\e0.PNG)
+    ![e0](/imon-final/screenshot/e0.PNG)
 
 ### 三、主要函数介绍
 
@@ -167,15 +167,15 @@
 
   - 数据表page 
 
-    ![p1](diary\final\p1.PNG)
+    ![p1](/imon-final/screenshot/p1.PNG)
 
   - 数据表url
 
-      ![u1](diary\final\u1.PNG)
+      ![u1](/imon-final/screenshot/u1.PNG)
 
   - 数据表crawl
 
-    ![c1](diary\final\c1.PNG)
+    ![c1](/imon-final/screenshot/c1.PNG)
 
 
 - datachart
@@ -188,17 +188,17 @@
 
   - 窗口输出：
 
-      ![cc1](diary\新建文件夹\cc1.PNG)
+      ![cc1](/imon-final/screenshot/cc1.PNG)
 
   - 数据表exdomains
 
-       ![e1](diary\新建文件夹\e1.PNG)
+       ![e1](/imon-final/screenshot/e1.PNG)
 
     ...
 
-      ![e11](diary\新建文件夹\e11.PNG)
+      ![e11](/imon-final/screenshot/e11.PNG)
 
-  - 柱状图 ![ccc1](diary\新建文件夹\ccc1.PNG)
+  - 柱状图 ![ccc1](/imon-final/screenshot/ccc1.PNG)
 
 
 ##### 网站的动态分析
@@ -215,13 +215,13 @@ python run.py --url=http://news.qq.com/ --order=DFO --depth=1 --delay=1 --type=.
 
   - page：
 
-    ![p2](diary\新建文件夹\p2.PNG)
+    ![p2](/imon-final/screenshot/p2.PNG)
 
   - url：
 
-      ![u2](diary\新建文件夹\u2.PNG)
+      ![u2](/imon-final/screenshot/u2.PNG)
 
-  - crawl：  ![c2](diary\新建文件夹\c2.PNG)
+  - crawl：  ![c2](/imon-final/screenshot/c2.PNG)
 
 
 
@@ -235,23 +235,23 @@ python run.py --url=http://news.qq.com/ --order=DFO --depth=1 --delay=1 --type=.
 
   - 数据表exdomains：
 
-      ![e2](diary\新建文件夹\e2.PNG)
+      ![e2](/imon-final/screenshot/e2.PNG)
 
     ...
 
-     ![e22](diary\新建文件夹\e22.PNG)
+     ![e22](/imon-final/screenshot/e22.PNG)
 
   - 窗口输出：
 
-      ![cc2](diary\新建文件夹\cc2.PNG)
+      ![cc2](/imon-final/screenshot/cc2.PNG)
 
   - 柱状图：
 
-    ![ccc2](diary\新建文件夹\ccc2.PNG)
+    ![ccc2](/imon-final/screenshot/ccc2.PNG)
 
 以上网页都以TXT形式存储到D:\testFile\html文件夹下面
 
- ![t0](diary\新建文件夹\t0.PNG)
+ ![t0](/imon-final/screenshot/t0.PNG)
 
 ### 五、实验结论
 
@@ -268,4 +268,4 @@ new_site.click()
 
 即可实现整个栏目的遍历
 
-![s0](diary\新建文件夹\s0.PNG)
+![s0](/imon-final/screenshot/s0.PNG)
