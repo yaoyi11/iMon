@@ -4,7 +4,6 @@ import time
 import scrapy
 from scrapy.spider import Spider
 from selenium import webdriver
-from bs4 import BeautifulSoup  # 使用bs4中beautifulsoup解析
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 
@@ -18,17 +17,12 @@ class LiCaiSpider(Spider):
     allowed_domains = ["finance.sina.com.cn"]
     start_urls = [
         "http://finance.sina.com.cn/data/#stock?qq-pf-to=pcqq.group"
-#        "http://www.dmoz.org/Computers/Programming/Languages/Python/Resources/"
     ]
 
     def __init__(self):
         self.browser = webdriver.Firefox() #使用前请安装对应的webdriver
-        # 设定页面加载限制时间
 
-    # def __del__(self):
-    #     self.browser.close()
-
-    def parse(self, response):
+    def parse(self, response):#解析函数
         item = JavaspiderItem()
         #start browser
         self.browser.set_page_load_timeout(10)
@@ -37,23 +31,19 @@ class LiCaiSpider(Spider):
         try:
             self.browser.get(response.request.url)
             time.sleep(4)
-            self.browser.find_element_by_xpath('//*[@id="numberDiv_0"]/a[3]').click()
-            time.sleep(3)  # 休眠两秒
+            self.browser.find_element_by_xpath('//*[@id="numberDiv_0"]/a[3]').click()#点击一页显示80个内容
+            time.sleep(3)  # 休眠3秒
         except TimeoutException:
             print('time out after 30 seconds when loading page')
-            self.browser.execute_script('window.stop()') #当页面加载时间超过设定时间
+            self.browser.execute_script('window.stop()') #当页面加载时间超过设定时间关闭窗口
         total = self.browser.find_element_by_xpath('/html/body/div[3]/div[3]/div[4]/div[2]/span[5]/span[2]')
-        total = total.text
+        total = total.text#总页数
         for i in range(int(total)):
             try:
                 sreach_window = self.browser.current_window_handle
-                # wait = WebDriverWait(self.browser, 10)
-                # element = wait.until(EC.presence_of_element_located((By.XPATH, '/html/body/div[3]/div[3]/div[4]/div[1]/table/tbody/tr[80]')))
-
                 con = []
                 for it in self.browser.find_elements_by_xpath('/html/body//table[@id="block_1"]/tbody/tr'):
                     con.append(it.text)
-                #con = con[2:-2]
                 for i in range(len(con)):
                     cc = con[i].split(' ')
                     item['daima'] = cc[0]  # 代码
@@ -74,6 +64,7 @@ class LiCaiSpider(Spider):
                     yield item
             except Exception as e:
                 print(e)
+            #点击‘下一页’
             new_site = self.browser.find_element_by_xpath('/html/body/div[3]/div[3]/div[4]/div[2]/span[3]')
             new_site.click()
             time.sleep(6)

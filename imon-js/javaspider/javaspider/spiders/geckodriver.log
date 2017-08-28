@@ -914,3 +914,203 @@ JavaScript error: http://finance.sina.com.cn/js/data/20140924/util.js line 74 > 
 1502938129453	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
 1502938141101	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
 1502938153088	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503562186439	geckodriver	INFO	Listening on 127.0.0.1:54267
+1503562188438	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503562190220	Marionette	INFO	Enabled via --marionette
+1503562197526	Marionette	INFO	Listening on port 54273
+1503562197545	Marionette	INFO	Listening on port 54273
+1503562198079	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503562198129	Marionette	DEBUG	loaded listener.js
+1503562202221	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503562202726	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503562202726	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://finance.sina.com.cn/js/data/20140924/sidebar.js, line 424: unreachable code after return statement
+1503562205605	Marionette	DEBUG	Received DOM event "pageshow" for "http://finance.sina.com.cn/data/analysis.html"
+1503562208458	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://finance.sina.com.cn/data/analysis.html"
+1503562208545	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://finance.sina.com.cn/data/#stock?qq-pf-to=pcqq.group"
+1503562208655	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://beacon.sina.com.cn/ckctl.html"
+1503562208661	Marionette	DEBUG	Received DOM event "pageshow" for "http://beacon.sina.com.cn/ckctl.html"
+1503562208663	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://finance.sina.com.cn/data/analysis.html?page=stock,schq,hsgs,qbag&refer=&r=0.6918607897881117"
+1503562208666	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://beacon.sina.com.cn/ckctl.html"
+1503562208668	Marionette	DEBUG	Received DOM event "pageshow" for "http://beacon.sina.com.cn/ckctl.html"
+1503562208757	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://d8.sina.com.cn/litong/zhitou/sinaads/src/spec/sinaads_ck.html"
+1503562208895	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://news.sina.com.cn/iframe/87/store.html?handle=___SinaadsCrossDomainStorage___.onReady&domain=sina.com.cn"
+1503562208898	Marionette	DEBUG	Received DOM event "pageshow" for "http://news.sina.com.cn/iframe/87/store.html?handle=___SinaadsCrossDomainStorage___.onReady&domain=sina.com.cn"
+1503562208899	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://d5.sina.com.cn/litong/zhitou/sinaads/src/spec/sinaads_ck.html"
+1503562208899	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://current.sina.com.cn/theone/IO.WebPush4.localConn.html"
+1503562208901	Marionette	DEBUG	Received DOM event "pageshow" for "https://current.sina.com.cn/theone/IO.WebPush4.localConn.html"
+1503562208907	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://news.sina.com.cn/iframe/87/store.html?handle=___SinaadsCrossDomainStorage___.onReady&domain=sina.com.cn"
+1503562208909	Marionette	DEBUG	Received DOM event "pageshow" for "http://news.sina.com.cn/iframe/87/store.html?handle=___SinaadsCrossDomainStorage___.onReady&domain=sina.com.cn"
+1503562209417	Marionette	DEBUG	Received DOM event "pageshow" for "http://d8.sina.com.cn/litong/zhitou/sinaads/src/spec/sinaads_ck.html"
+1503562209418	Marionette	DEBUG	Received DOM event "pageshow" for "http://d5.sina.com.cn/litong/zhitou/sinaads/src/spec/sinaads_ck.html"
+1503562209855	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://passport.weibo.com/visitor/visitor?from=iframe"
+1503562209861	Marionette	DEBUG	Received DOM event "pageshow" for "https://passport.weibo.com/visitor/visitor?from=iframe"
+1503562209879	Marionette	DEBUG	Received DOM event "pageshow" for "http://finance.sina.com.cn/data/analysis.html?page=stock,schq,hsgs,qbag&refer=&r=0.6918607897881117"
+1503562209888	Marionette	DEBUG	Received DOM event "pageshow" for "http://finance.sina.com.cn/data/#stock?qq-pf-to=pcqq.group"
+1503562214315	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503562223281	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503562239640	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503562251167	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503562262794	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503562274751	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503562285782	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503562297051	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503562308969	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503562320671	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503562331997	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503562346123	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: http://finance.sina.com.cn/js/data/20140924/util.js line 74 > eval, line 1: ReferenceError: hq_str_sh601880 is not defined
+1503562358506	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503562370976	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: http://finance.sina.com.cn/js/data/20140924/util.js line 74 > eval, line 1: ReferenceError: hq_str_sh603319 is not defined
+1503562382734	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503562395676	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503562408264	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503562418747	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: http://finance.sina.com.cn/js/data/20140924/util.js line 74 > eval, line 1: ReferenceError: hq_str_sz000429 is not defined
+1503562430751	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: http://finance.sina.com.cn/js/data/20140924/util.js line 74 > eval, line 1: ReferenceError: hq_str_sz000597 is not defined
+1503562443768	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503562456683	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503562469927	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503562487503	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503562504122	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: http://finance.sina.com.cn/js/data/20140924/util.js line 74 > eval, line 1: ReferenceError: hq_str_sz002113 is not defined
+JavaScript error: http://finance.sina.com.cn/js/data/20140924/util.js line 74 > eval, line 1: ReferenceError: hq_str_sz002113 is not defined
+1503562523088	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503562546674	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503562570532	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503562593553	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503562632626	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503562691184	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: n.connection is null
+1503562799141	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: this.connection is null
+1503562839032	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503562899098	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: http://finance.sina.com.cn/js/data/20140924/util.js line 74 > eval, line 1: ReferenceError: hq_str_sz002847 is not defined
+JavaScript error: http://finance.sina.com.cn/js/data/20140924/util.js line 74 > eval, line 1: ReferenceError: hq_str_sz002847 is not defined
+JavaScript error: http://finance.sina.com.cn/js/data/20140924/util.js line 74 > eval, line 1: ReferenceError: hq_str_sz002847 is not defined
+JavaScript error: http://finance.sina.com.cn/js/data/20140924/util.js line 74 > eval, line 1: ReferenceError: hq_str_sz002847 is not defined
+JavaScript error: http://finance.sina.com.cn/js/data/20140924/util.js line 74 > eval, line 1: ReferenceError: hq_str_sz002847 is not defined
+JavaScript error: http://finance.sina.com.cn/js/data/20140924/util.js line 74 > eval, line 1: ReferenceError: hq_str_sz002847 is not defined
+JavaScript error: http://finance.sina.com.cn/js/data/20140924/util.js line 74 > eval, line 1: ReferenceError: hq_str_sz002847 is not defined
+JavaScript error: http://finance.sina.com.cn/js/data/20140924/util.js line 74 > eval, line 1: ReferenceError: hq_str_sz002847 is not defined
+JavaScript error: http://finance.sina.com.cn/js/data/20140924/util.js line 74 > eval, line 1: ReferenceError: hq_str_sz002847 is not defined
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: n.connection is null
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: n.connection is null
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: n.connection is null
+1503562945312	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503563026597	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: n.connection is null
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: n.connection is null
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: n.connection is null
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: n.connection is null
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: n.connection is null
+1503563124021	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: n.connection is null
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: n.connection is null
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: n.connection is null
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: n.connection is null
+1503563232376	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: n.connection is null
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: n.connection is null
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: n.connection is null
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: this.connection is null
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: n.connection is null
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: n.connection is null
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: n.connection is null
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: n.connection is null
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: n.connection is null
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: n.connection is null
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: n.connection is null
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: n.connection is null
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: n.connection is null
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: n.connection is null
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: this.connection is null
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: n.connection is null
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: n.connection is null
+1503563349754	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: n.connection is null
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: n.connection is null
+JavaScript error: http://finance.sina.com.cn/js/data/20140924/util.js line 74 > eval, line 1: ReferenceError: hq_str_sz300360 is not defined
+JavaScript error: http://finance.sina.com.cn/js/data/20140924/util.js line 74 > eval, line 1: ReferenceError: hq_str_sz300360 is not defined
+JavaScript error: http://finance.sina.com.cn/js/data/20140924/util.js line 74 > eval, line 1: ReferenceError: hq_str_sz300360 is not defined
+JavaScript error: http://finance.sina.com.cn/js/data/20140924/util.js line 74 > eval, line 1: ReferenceError: hq_str_sz300360 is not defined
+JavaScript error: http://finance.sina.com.cn/js/data/20140924/util.js line 74 > eval, line 1: ReferenceError: hq_str_sz300360 is not defined
+JavaScript error: http://finance.sina.com.cn/js/data/20140924/util.js line 74 > eval, line 1: ReferenceError: hq_str_sz300360 is not defined
+JavaScript error: http://finance.sina.com.cn/js/data/20140924/util.js line 74 > eval, line 1: ReferenceError: hq_str_sz300360 is not defined
+JavaScript error: http://finance.sina.com.cn/js/data/20140924/util.js line 74 > eval, line 1: ReferenceError: hq_str_sz300360 is not defined
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: n.connection is null
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: n.connection is null
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: n.connection is null
+1503563444497	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: n.connection is null
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: n.connection is null
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: n.connection is null
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: this.connection is null
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: n.connection is null
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: n.connection is null
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: n.connection is null
+1503563563896	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: http://finance.sina.com.cn/js/data/20140924/util.js line 74 > eval, line 1: ReferenceError: hq_str_sz300523 is not defined
+JavaScript error: http://finance.sina.com.cn/js/data/20140924/util.js line 74 > eval, line 1: ReferenceError: hq_str_sz300523 is not defined
+JavaScript error: http://finance.sina.com.cn/js/data/20140924/util.js line 74 > eval, line 1: ReferenceError: hq_str_sz300523 is not defined
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: n.connection is null
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: n.connection is null
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: this.connection is null
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: n.connection is null
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: n.connection is null
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: n.connection is null
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: n.connection is null
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: n.connection is null
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: n.connection is null
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: n.connection is null
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: this.connection is null
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: n.connection is null
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: n.connection is null
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: n.connection is null
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: n.connection is null
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: n.connection is null
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: this.connection is null
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: n.connection is null
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: n.connection is null
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: n.connection is null
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: n.connection is null
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: n.connection is null
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: this.connection is null
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: this.connection is null
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: n.connection is null
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: n.connection is null
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: n.connection is null
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: n.connection is null
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: n.connection is null
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: n.connection is null
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: n.connection is null
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: n.connection is null
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: n.connection is null
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: n.connection is null
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: n.connection is null
+JavaScript error: http://woocall.sina.com.cn/lib/IO.WebPush4.js, line 1: TypeError: n.connection is null
+1503563677862	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: http://finance.sina.com.cn/js/data/20140924/util.js line 74 > eval, line 1: ReferenceError: hq_str_sz300608 is not defined
+JavaScript error: http://finance.sina.com.cn/js/data/20140924/util.js line 74 > eval, line 1: ReferenceError: hq_str_sz300608 is not defined
+JavaScript error: http://finance.sina.com.cn/js/data/20140924/util.js line 74 > eval, line 1: ReferenceError: hq_str_sz300608 is not defined
+JavaScript error: http://finance.sina.com.cn/js/data/20140924/util.js line 74 > eval, line 1: ReferenceError: hq_str_sz300608 is not defined
+JavaScript error: http://finance.sina.com.cn/js/data/20140924/util.js line 74 > eval, line 1: ReferenceError: hq_str_sz300608 is not defined
+JavaScript error: http://finance.sina.com.cn/js/data/20140924/util.js line 74 > eval, line 1: ReferenceError: hq_str_sz300608 is not defined
+JavaScript error: http://finance.sina.com.cn/js/data/20140924/util.js line 74 > eval, line 1: ReferenceError: hq_str_sz300608 is not defined
+JavaScript error: http://finance.sina.com.cn/js/data/20140924/util.js line 74 > eval, line 1: ReferenceError: hq_str_sz300608 is not defined
+JavaScript error: http://finance.sina.com.cn/js/data/20140924/util.js line 74 > eval, line 1: ReferenceError: hq_str_sz300608 is not defined
+JavaScript error: http://finance.sina.com.cn/js/data/20140924/util.js line 74 > eval, line 1: ReferenceError: hq_str_sz300608 is not defined
+JavaScript error: http://finance.sina.com.cn/js/data/20140924/util.js line 74 > eval, line 1: ReferenceError: hq_str_sz300608 is not defined
+JavaScript error: http://finance.sina.com.cn/js/data/20140924/util.js line 74 > eval, line 1: ReferenceError: hq_str_sz300608 is not defined
+1503563786373	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: chrome://browser/content/browser.js, line 6452: TypeError: cannot use the given object as a weak map key
+JavaScript error: chrome://browser/content/browser.js, line 6452: TypeError: cannot use the given object as a weak map key
+[GPU 6252] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 6252] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 6252] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
