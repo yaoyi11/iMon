@@ -17,9 +17,9 @@
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'tencent (+http://www.yourdomain.com)'
-
+#JOBDIR='sharejs.com'
 # Obey robots.txt rules
-ROBOTSTXT_OBEY = True
+ROBOTSTXT_OBEY = False
 #DEPTH_PRIORITY = 2
 #USER_AGENT = 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36'
 # Configure maximum concurrent requests performed by Scrapy (default: 16)

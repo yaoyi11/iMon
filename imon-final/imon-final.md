@@ -41,16 +41,13 @@
 
     page表：
 
-    ![p0](/imon-final/screenshot/p0.PNG)
+      ![p0](/imon-final/screenshot/p0.PNG)
 
-     url表：
+  ​	url表：
 
-    ![u0](/imon-final/screenshot/u0.PNG)
+  ​![u0](/imon-final/screenshot/u0.PNG)
 
-     crawl表：
-
-    ![c0](/imon-final/screenshot/c0.PNG)
-
+  ​	 crawl表：  	![c0](diary\新建文件夹\c0.PNG)
 
 - datachart用于统计分析数据库里的内容，需要在first里面添加一个exdomains的数据表
 
@@ -59,6 +56,9 @@
 ### 三、主要函数介绍
 
 - 抓取程序
+
+  使用了scrapy框架
+
   - run.py
 
     - 功能：主程序
@@ -71,6 +71,8 @@
          def __init__(self,crawl_id=None,dyna=False,moreparams=None,*args,**kwargs)
          #配置start_requests，可以根据self.dyna确定使用动态分析函数还是静态分析函数
          def start_requests(self)
+         # 当爬虫退出的时候关闭firefox
+         def spider_closed(self, spider)
          # 单网页静态分析函数
          def parse_item(self, response)
          # 动态单网页的分析
@@ -160,7 +162,7 @@
   python myspider.py --url=http://news.qq.com/ --order=DFO --depth=1 --delay=1 --type=.htm --crawl_id=1
   ```
 
-  爬取http://news.qq.com/，深度优先，遍历一层，下载延迟1秒，允许过滤含有.htm的网页，爬虫id为1，静态分析
+  爬取http://news.qq.com/，order：深度优先，depth：遍历一层，delay：下载延迟1秒，type：允许过滤含有.htm的网页，crawl_id：爬虫id为1，默认为静态分析
 
 
 - 完成之后
@@ -171,7 +173,7 @@
 
   - 数据表url
 
-      ![u1](/imon-final/screenshot/u1.PNG)
+     ![u1](/imon-final/screenshot/u1.PNG)
 
   - 数据表crawl
 
@@ -192,13 +194,15 @@
 
   - 数据表exdomains
 
-       ![e1](/imon-final/screenshot/e1.PNG)
+      ![e1](/imon-final/screenshot/e1.PNG)
 
     ...
 
       ![e11](/imon-final/screenshot/e11.PNG)
 
-  - 柱状图 ![ccc1](/imon-final/screenshot/ccc1.PNG)
+  - 柱状图
+
+     ![ccc1](/imon-final/screenshot/ccc1.PNG)
 
 
 ##### 网站的动态分析
@@ -206,10 +210,10 @@
 - 打开命令行窗口：
 
 ```python
-python run.py --url=http://news.qq.com/ --order=DFO --depth=1 --delay=1 --type=.htm --crawl_id=2 --js=true
+python myspider.py --url=http://news.qq.com/ --order=DFO --depth=1 --delay=1 --type=.htm --crawl_id=2 --js=true
 ```
 
-爬取http://news.qq.com/，深度优先，遍历一层，下载延迟1秒，允许过滤含有.htm的网页，爬虫id为2，动态分析
+爬取http://news.qq.com/，深度优先，遍历一层，下载延迟1秒，允许过滤含有.htm的网页，爬虫id为2，支持JavaScript
 
 - 完成之后
 
@@ -221,7 +225,9 @@ python run.py --url=http://news.qq.com/ --order=DFO --depth=1 --delay=1 --type=.
 
       ![u2](/imon-final/screenshot/u2.PNG)
 
-  - crawl：  ![c2](/imon-final/screenshot/c2.PNG)
+  - crawl：
+
+      ![c2](/imon-final/screenshot/c2.PNG)
 
 
 
@@ -230,7 +236,7 @@ python run.py --url=http://news.qq.com/ --order=DFO --depth=1 --delay=1 --type=.
   - 命令行输入：
 
     ```python
-    python test3.py --crawl_id=2
+    python analysis.py --crawl_id=2
     ```
 
   - 数据表exdomains：
@@ -255,17 +261,96 @@ python run.py --url=http://news.qq.com/ --order=DFO --depth=1 --delay=1 --type=.
 
 ### 五、实验结论
 
-​	在采集了大量数据分析后，动态分析网站相比静态分析所抓取的网页链接以及网页大小，前者要多一些，但是动态爬取效率要更低，耗时长。
+​	在采集了大量数据分析后，静态分析网站仅仅只爬取网页源代码里面的内容，动态加载的内容并没有获取到，动态分析网站则是用selenium模拟浏览器访问网站，实时获取到动态加载内容的源代码，相比于静态分析所抓取的网页链接以及网页大小，动态分析要多一些，但是动态爬取效率要更低，耗时长。
 
 ### 六、对于特定动态网站的采集
 
-对于新浪财经的[沪深股市](http://finance.sina.com.cn/data/#stock?qq-pf-to=pcqq.group)进行采集，发现在点击"<u>下一页</u>"的时候，url并没有发生变化，于是直接用selenium的webdriver模拟点击下一页的操作
+- 对于新浪财经的[沪深股市](http://finance.sina.com.cn/data/#stock?qq-pf-to=pcqq.group)的代码、名称、最新价、涨跌额、涨跌幅、买入、卖出、昨收、今开、最高、最低、成交量（手）、成交额（万）进行采集，发现在点击"<u>下一页</u>"的时候，url并没有发生变化，于是直接用selenium的webdriver模拟点击下一页的操作
 
 ```python
 new_site = self.browser.find_element_by_xpath('/html/body/div[3]/div[3]/div[4]/div[2]/span[3]')
 new_site.click()
 ```
 
-即可实现整个栏目的遍历
+即可实现整个栏目的遍历（找到最大页码，在循环中逐页访问）
+
+```python
+total = self.browser.find_element_by_xpath
+('/html/body/div[3]/div[3]/div[4]/div[2]/span[5]/span[2]')
+total = total.text#总页数
+for i in range(int(total)):
+...
+```
 
 ![s0](/imon-final/screenshot/s0.PNG)
+
+- 对[斗鱼直播平台](https://www.douyu.com/directory/game/wzry)的标题、直播人、栏目、观看人数进行采集，同样在点击"下一页"的时候，url没变，但打开调试工具的时候，浏览器发送了一个Request URL：https://www.douyu.com/directory/game/wzry?**page=2**&isAjax=1其中page=2代表了当前页数，于是直接返回上述Request URL，page动态传入
+
+  ```python
+  self.page +=1
+  if self.page<=self.maxpage:
+  	yield scrapy.Request('https://www.douyu.com/directory/game/wzry?page=%d&isAjax=1' % self.page)
+  ```
+
+  每调用分析函数一次self.page就增加1，但不大于在首页中找到的最大页码self.maxpage。	
+
+  于是对网页的分析分为两种，一个是首页，另一个是返回的数据表单，通过if-else分隔，区别在于xpath的写法不一样。![dy-1](diary\新建文件夹\dy-1.PNG)
+
+  ​ ![dy-0](diary\新建文件夹\dy-0.PNG)
+
+### 七、反爬措施
+
+- 基于headers
+
+  ```python
+  sett['USER_AGENT'] = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.13 Safari/537.36'
+  ```
+
+- 基于用户行为，访问频率
+
+  ```python
+  sett['DOWNLOAD_DELAY'] = config["delay"]
+  ROBOTSTXT_OBEY = False
+  ```
+
+- 基于动态页面
+
+  ```python
+  # 动态单网页的分析
+  def parse_dynamic(self, response)
+  ```
+
+### 八、断点续爬
+
+在myspider.py文件里加入settings的JOBDIR参数：
+
+```python
+sett['JOBDIR'] = config["jobdir"]
+```
+
+就会在运行爬虫后，对应的文件夹下面产生相应的目录存放队列，在命令行输入的时候加上--jobdir=xxx，按下Ctrl+c就可停止，再次启动就是跟上次命令一样。下面有两个例子
+
+ ![dd-4](diary\新建文件夹\dd-4.PNG)
+
+断点续爬直接输入上一次的命令：
+
+ ![dd-5](diary\新建文件夹\dd-5.PNG)
+
+数据库查看第一次爬取的起始url：
+
+![dd-55](diary\新建文件夹\dd-55.PNG)
+
+续爬后的起始url： ![dd-44](diary\新建文件夹\dd-44.PNG)
+
+百度贴吧的例子：
+
+ ![dd-6](diary\新建文件夹\dd-6.PNG)
+
+ ![dd-66](diary\新建文件夹\dd-66.PNG)
+
+
+
+![dd-666](diary\新建文件夹\dd-666.PNG)
+
+
+

@@ -2,6 +2,8 @@
 import codecs
 import os
 from datetime import datetime
+
+from pydispatch import dispatcher
 from scrapy.linkextractors import LinkExtractor
 import scrapy
 from selenium import webdriver
@@ -20,6 +22,7 @@ import sys
 import time
 import re
 from bs4 import BeautifulSoup
+from scrapy import signals
 
 
 class MySpider(CrawlSpider):
@@ -44,6 +47,8 @@ class MySpider(CrawlSpider):
             self.allowd_domains = []
             self.allowd_domains.append(domain)  # 域名限制
             super(MySpider, self).__init__(*args, **kwargs)  # 这里是关键
+            dispatcher.connect(self.spider_closed, signals.spider_closed)
+
     #配置start_requests，可以根据self.dyna确定使用动态分析函数还是静态分析函数
     def start_requests(self):
         #动态分析
@@ -53,6 +58,11 @@ class MySpider(CrawlSpider):
         else:#静态分析
             for url in self.start_urls:
                 yield scrapy.Request(url, callback=self.parse_item)
+
+    # 当爬虫退出的时候关闭firefox
+    def spider_closed(self, spider):
+        print("爬虫结束！")
+        self.browser.quit()
 
     # 单网页静态分析函数
     def parse_item(self, response):
@@ -104,7 +114,7 @@ class MySpider(CrawlSpider):
 
     # 动态单网页的分析
     def parse_dynamic(self, response):
-        global domains, links
+        global domains
         qqnews = TencentItem()
         setting = self.settings
         depth = int(setting['DEPTH_LIMIT'])  # 设置的爬取深度
@@ -136,8 +146,11 @@ class MySpider(CrawlSpider):
             qqnews['filepath'] = filename  # 文件存放的路径
             # 找到网页里所有链接地址
             trlinks = set()
-            for link in self.browser.find_elements_by_tag_name("a"):
-                trlinks.add(link.get_attribute("href"))
+            # for link in self.browser.find_elements_by_tag_name("a"):
+            #     trlinks.add(link.get_attribute("href"))
+            for link in BeautifulSoup(yuan, 'lxml').find_all(name='a',attrs={"href":re.compile(r'^http[s]{0,1}:')}):
+                #print(link.get('href'))
+                trlinks.add(link.get('href'))
             for site in trlinks:
                 try:
                     n = site.strip().split('/')[2]  # 提取域名
@@ -148,14 +161,15 @@ class MySpider(CrawlSpider):
             qqnews['count'] = len(trlinks)#所有链接数目
             yield qqnews
             self.domains.clear()
-        except:
-            pass
-
-        meta = response.meta  # 方便检测实时爬取的深度
-        if meta['depth'] < depth:  # 在爬取深度范围内
-            for url in trlinks:
-                if url:
-                    if re.search('^http[s]{0,1}://[a-zA-Z0-9\/\?\=].*', url):
+        except ConnectionRefusedError:
+            self.browser.quit()
+        except ConnectionResetError:
+            self.browser.quit()
+        else:
+            meta = response.meta  # 方便检测实时爬取的深度
+            if meta['depth'] < depth:  # 在爬取深度范围内
+                for url in trlinks:
+                    if url:
                         if self.allowd_domains[0] in url:
                             if self.moreparams in url:
                                 yield scrapy.Request(url, callback=self.parse_dynamic)  # 返回request
@@ -175,9 +189,9 @@ def get_crawl(url, cid, order, typ, js, date1, date2):
     cursor = conn.cursor()
     site = url[0]
     if js:
-        java = 1
+        java = 1#动态
     else:
-        java = 0
+        java = 0#静态
     start_time = date1
     end_time = date2
     sql = "INSERT INTO crawl(url,cid,`order`,allowtype,javascript,start_time,end_time) VALUES ('%s', '%s','%s', '%s', '%s',\'%s\', \'%s\')" % (
@@ -191,22 +205,23 @@ def get_crawl(url, cid, order, typ, js, date1, date2):
 def get_cmd():  # 从命令行读取参数
     # 初始化默认配置
     config = {
-        "url": "http://news.qq.com/",
+        "url": "http://news.sogou.com/",
         "order": "DFO",
-        "depth": "1",
+        "depth": "2",
         "delay": "2",
-        "type": ".htm",
+        "type": ".",
         "crawl_id": "1",
-        "js": False
+        "js": False,
+        "jobdir":""
     }
-    opts, args = getopt.getopt(sys.argv[1:], 'hu:o:d:e:t:c:j:',
-                               ['help', 'url=', 'order=', 'depth=', 'delay=', 'type=', 'crawl_id=', 'js='])
+    opts, args = getopt.getopt(sys.argv[1:], 'hu:o:d:e:t:c:j:r:',
+                               ['help', 'url=', 'order=', 'depth=', 'delay=', 'type=', 'crawl_id=', 'js=','jobdir='])
     # 参数的解析过程,长参数为--，短参数为-
     for option, value in opts:
         if option in ["-h", "--help"]:
             print("""  
             usage:%s --url=[start_url] --order=[BFO/DFO] --depth=[depth_limit]
-            --delay=[delaytime] --type=[value] --crawl_id=[number] --js=[True/False]
+            --delay=[delaytime] --type=[value] --crawl_id=[number] --js=[True/False] --jobdir=[value]
             """)
         elif option in ['--url', '-u']:
             config["url"] = value
@@ -222,16 +237,18 @@ def get_cmd():  # 从命令行读取参数
             config["crawl_id"] = value
         elif option in ['--js', '-j']:
             config["js"] = value
+        elif option in ['--jobdir', '-r']:
+            config["jobdir"] = value
     return config
 
 
 def get_settings():  # settings的设置
     sett = get_project_settings()
     config = get_cmd()
-    sett['DOWNLOAD_DELAY'] = config["delay"]
-    sett[
-        'USER_AGENT'] = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.13 Safari/537.36'
+    sett['DOWNLOAD_DELAY'] = config["delay"]#下载延迟
+    sett['USER_AGENT'] = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.13 Safari/537.36'
     sett['DEPTH_LIMIT'] = config["depth"]  #深度
+    sett['JOBDIR'] = config["jobdir"]#断点重连的队列
     order = config['order']
     if order == 'DFO':
         pass  # 系统默认是深度优先
@@ -255,7 +272,7 @@ process = CrawlerProcess(sett)
 url = []#start_url
 url.append(config['url'])
 process.crawl(MySpider, crawl_id=cid, dyna=js, moreparams=typ, url_list=url)  # ['http://news.qq.com/'])
-process.start()
+process.start()#开始
 date2 = datetime.now().replace(microsecond=0)#结束时间
 print("结束时间：" + str(date2))
 get_crawl(url, cid, order, typ, js, date1, date2)#存到数据库

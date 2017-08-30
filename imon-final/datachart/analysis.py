@@ -60,6 +60,7 @@ def get_links(cid):#每个网页平均含有几个链接
 
 def get_domains(cid,page):#整个网站一共有多少个外链的域名，每个域名有多少次,将结果存入到数据库exdomains
     cursor,co = get_mysql()
+    cursor.execute("truncate table exdomains")#清空数据表exdomains
     sql = ("select domains,count(domains) from url where page_id between %d and %d group by domains order by count(domains) DESC" % (cid,page))
     cursor.execute(sql)
     exdo = cursor.fetchall()
