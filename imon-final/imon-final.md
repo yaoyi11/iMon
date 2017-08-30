@@ -47,7 +47,8 @@
 
   ​![u0](/imon-final/screenshot/u0.PNG)
 
-  ​	 crawl表：  	![c0](diary\新建文件夹\c0.PNG)
+  ​	 crawl表：  	
+  ![c0](/imon-final/screenshot/c0.PNG)
 
 - datachart用于统计分析数据库里的内容，需要在first里面添加一个exdomains的数据表
 
@@ -294,9 +295,9 @@ for i in range(int(total)):
 
   每调用分析函数一次self.page就增加1，但不大于在首页中找到的最大页码self.maxpage。	
 
-  于是对网页的分析分为两种，一个是首页，另一个是返回的数据表单，通过if-else分隔，区别在于xpath的写法不一样。![dy-1](diary\新建文件夹\dy-1.PNG)
+  于是对网页的分析分为两种，一个是首页，另一个是返回的数据表单，通过if-else分隔，区别在于xpath的写法不一样。![dy-1](/imon-final/screenshot/dy-1.PNG)
 
-  ​ ![dy-0](diary\新建文件夹\dy-0.PNG)
+  ​ ![dy-0](/imon-final/screenshot/dy-0.PNG)
 
 ### 七、反爬措施
 
@@ -330,27 +331,27 @@ sett['JOBDIR'] = config["jobdir"]
 
 就会在运行爬虫后，对应的文件夹下面产生相应的目录存放队列，在命令行输入的时候加上--jobdir=xxx，按下Ctrl+c就可停止，再次启动就是跟上次命令一样。下面有两个例子
 
- ![dd-4](diary\新建文件夹\dd-4.PNG)
+ ![dd-4](/imon-final/screenshot/dd-4.PNG)
 
 断点续爬直接输入上一次的命令：
 
- ![dd-5](diary\新建文件夹\dd-5.PNG)
+ ![dd-5](/imon-final/screenshot/dd-5.PNG)
 
 数据库查看第一次爬取的起始url：
 
-![dd-55](diary\新建文件夹\dd-55.PNG)
+![dd-55](/imon-final/screenshot/dd-55.PNG)
 
-续爬后的起始url： ![dd-44](diary\新建文件夹\dd-44.PNG)
+续爬后的起始url： ![dd-44](/imon-final/screenshot/dd-44.PNG)
 
 百度贴吧的例子：
 
- ![dd-6](diary\新建文件夹\dd-6.PNG)
+ ![dd-6](/imon-final/screenshot/dd-6.PNG)
 
- ![dd-66](diary\新建文件夹\dd-66.PNG)
+ ![dd-66](/imon-final/screenshot/dd-66.PNG)
 
 
 
-![dd-666](diary\新建文件夹\dd-666.PNG)
+![dd-666](/imon-final/screenshot/dd-666.PNG)
 
 
 
