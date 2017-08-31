@@ -124,7 +124,7 @@ class MySpider(CrawlSpider):
         try:
             # self.browser.maximize_window()
             self.browser.get(response.request.url)
-
+            time.sleep(3)
             qqnews['crawl_id'] = self.crwal_id
             yuan = self.browser.page_source  # 解析后的网页源代码
             qqnews['url'] = response.request.url  # url地址
@@ -170,10 +170,10 @@ class MySpider(CrawlSpider):
             if meta['depth'] < depth:  # 在爬取深度范围内
                 for url in trlinks:
                     if url:
-                        if self.allowd_domains[0] in url:
+                        if re.search('^http[s]{0,1}://%s/[a-zA-Z0-9\/\?\=].*' % self.allowd_domains[0], url):
+                        #if self.allowd_domains[0] in url:
                             if self.moreparams in url:
                                 yield scrapy.Request(url, callback=self.parse_dynamic)  # 返回request
-
 
 # 函数用来存储爬虫start_url，配置，开始时间和结束时间
 def get_crawl(url, cid, order, typ, js, date1, date2):
