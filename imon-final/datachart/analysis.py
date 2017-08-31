@@ -7,15 +7,15 @@ import getopt
 import sys
 
 def get_cmd():#从命令行读取参数
-    config = {"crawl_id":'1'}
+    config = {"crawl_id":'2'}
     try:
         opts, args = getopt.getopt(sys.argv[1:], "hc:",["crawl_id="])
     except getopt.GetoptError:
-       print('test3.py -c <crawl_id>')
+       print('analysis.py -c <crawl_id>')
        sys.exit(2)
     for opt, arg in opts:
        if opt == '-h':
-          print('test3.py -c <crawl_id> -o <outputfile>')
+          print('analysis.py -c <crawl_id> ')
           sys.exit()
        elif opt in ("-c", "--crawl_id"):
           config['crawl_id'] = arg
@@ -36,10 +36,15 @@ def get_mysql():#连接数据库
 
 def get_time(cid):#抓取任务执行了多久
     cursor,co = get_mysql()
+    all_time = 0
     sql = ("SELECT start_time,end_time FROM crawl where cid=%d" % cid)
     cursor.execute(sql)
-    jieguo = cursor.fetchone()
-    all_time = (jieguo[1] - jieguo[0]).seconds
+    jieguo = cursor.fetchall()
+    for i in jieguo:
+        a =(i[1]-i[0]).seconds#单次时间
+        #print(a)
+        all_time +=a
+    # all_time = (jieguo[1] - jieguo[0]).seconds
     print("共执行了"+str(all_time) + "秒")
 
 def get_page(cid):#一共抓了多少个网页/资源
